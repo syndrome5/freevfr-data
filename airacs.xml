@@ -1,14 +1,12 @@
 <Airacs>
     <Airac cycle="2604" status="active">
-        <Aixm>https://storage.gg/2604/aixm.xml</Aixm>
-        <Georeference>https://storage.gg/2604/vac_georef.xml</Georeference>
+        <Aixm>https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/2604/aixm.xml</Aixm>
+        <Georeference>https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/2604/vac_georef.xml</Georeference>
     </Airac>
-    <Airac cycle="2603" status="active">
-        <Aixm>https://storage.gg/2603/aixm.xml</Aixm>
-        <Georeference>https://storage.gg/2603/vac_georef.xml</Georeference>
-    </Airac>
-    <Airac cycle="2602" status="inactive">
-        <Aixm></Aixm>
-        <Georeference></Georeference>
+    <Airac cycle="2603" status="inactive" />
+    <Airac cycle="2602" status="inactive" />
+	<Airac cycle="2601" status="active">
+        <Aixm>https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/2601/aixm.xml</Aixm>
+        <Georeference>https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/2601/vac_georef.xml</Georeference>
     </Airac>
 </Airacs>
