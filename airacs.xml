@@ -6,7 +6,7 @@
     </Airac>
     <Airac cycle="2603" status="inactive" />
     <Airac cycle="2602" status="inactive" />
-	<Airac cycle="2601" status="active">
+	<Airac cycle="2601" status="inactive">
         <Aixm crc32="465E445C">https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/2601/aixm.xml</Aixm>
         <Georeference crc32="DDF7DCB4">https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/2601/vac_georef.xml</Georeference>
     </Airac>
