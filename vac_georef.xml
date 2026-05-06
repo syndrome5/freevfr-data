@@ -1,4 +1,4 @@
-<Georeference airac="2604">
+<Georeference>
 	<AD name="LFOI">
 		<Carte type="ATT" id="1" com="">
 			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_16_APR_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOI.pdf" dpi="250" page="1" x1="178" y1="406" x2="1397" y2="1620" />
@@ -1006,7 +1006,8 @@
 				<Point x="1041" y="262" lat="46.91666667" lon="-2.05000000" com="" />
 				<Point x="1041" y="708" lat="46.88333333" lon="-2.05000000" com="" />
 				<Point x="106" y="708" lat="46.88333333" lon="-2.15000000" com="" />
-			</Po
+			</Points>
+		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
 			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_16_APR_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFO.pdf" dpi="250" page="1" rot="10" x1="177" y1="1321" x2="1396" y2="1687" />
 			<Points>
