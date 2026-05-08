@@ -1,11 +1,11 @@
 <FreeVFR>
-    <Georef cycle="2604" crc32="FD4E1C80" xml="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/vac_georef.xml" />
+    <Georef cycle="2604" crc32="FD4E1C81" xml="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/vac_georef.xml" />
     <Airacs>
         <Airac cycle="2605" status="inactive" />
         <Airac cycle="2604" status="active" crc32="FABE91B7" aixm="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/aixm_2604.xml" />
         <Airac cycle="2603" status="inactive" />
         <Airac cycle="2602" status="inactive" />
-        <Airac cycle="2601" status="active" crc32="20E1A5DF" aixm="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/aixm_2601.xml" />
+        <Airac cycle="2601" status="active" crc32="20E1A5DE" aixm="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/aixm_2601.xml" />
         <Airac cycle="2512" status="inactive" />
         <Airac cycle="2511" status="inactive" />
         <Airac cycle="2510" status="inactive" />
