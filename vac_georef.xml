@@ -1,7 +1,7 @@
 <Georeference>
 	<AD name="LFOI">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOI.pdf" dpi="250" page="1" x1="178" y1="406" x2="1397" y2="1620" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOI.pdf" dpi="250" page="1" x1="178" y1="406" x2="1397" y2="1620" />
 			<Points>
 				<Point x="263" y="118" lat="50.15464496365434" lon="1.8184647424615459" com="" />
 				<Point x="1106" y="66" lat="50.15584861375759" lon="1.8486413575359406" com="" />
@@ -12,7 +12,7 @@
 	</AD>
 	<AD name="LFBA">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBA.pdf" dpi="250" page="1" x1="177" y1="398" x2="1397" y2="1939" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBA.pdf" dpi="250" page="1" x1="177" y1="398" x2="1397" y2="1939" />
 			<Points>
 				<Point x="42" y="127" lat="44.38358518217753" lon="0.3213347278736633" com="" />
 				<Point x="1116" y="27" lat="44.40860520172733" lon="0.7408404432967799" com="" />
@@ -21,7 +21,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBA.pdf" dpi="250" page="2" x1="55" y1="158" x2="1274" y2="1295" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBA.pdf" dpi="250" page="2" x1="55" y1="158" x2="1274" y2="1295" />
 			<Points>
 				<Point x="202" y="20" lat="44.186029319731674" lon="0.5794040447865823" com="" />
 				<Point x="949" y="70" lat="44.184851125827144" lon="0.6030849711491749" com="" />
@@ -30,7 +30,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBA.pdf" dpi="250" page="2" x1="55" y1="1300" x2="1274" y2="1655" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBA.pdf" dpi="250" page="2" x1="55" y1="1300" x2="1274" y2="1655" />
 			<Points>
 				<Point x="475" y="64" lat="44.17758132245121" lon="0.5923109397841848" com="" />
 				<Point x="887" y="79" lat="44.176044852646896" lon="0.5968983739750924" com="" />
@@ -41,7 +41,7 @@
     </AD>
 	<AD name="LFDA">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFDA.pdf" dpi="250" page="1" x1="176" y1="421" x2="1395" y2="1640" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFDA.pdf" dpi="250" page="1" x1="176" y1="421" x2="1395" y2="1640" />
 			<Points>
 				<Point x="5" y="247" lat="43.72834638796159" lon="-0.2659001993916767" com="" />
 				<Point x="1146" y="102" lat="43.73333235189139" lon="-0.21199329297321834" com="" />
@@ -50,7 +50,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFDA.pdf" dpi="250" page="2" x1="53" y1="160" x2="1273" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFDA.pdf" dpi="250" page="2" x1="53" y1="160" x2="1273" y2="1947" />
 			<Points>
 				<Point x="221" y="373" lat="43.7110710707415" lon="-0.24880049746187705" com="" />
 				<Point x="879" y="613" lat="43.71013192886519" lon="-0.2500290662738016" com="" />
@@ -61,7 +61,7 @@
     </AD>
 	<AD name="LFMA">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMA.pdf" dpi="250" page="1" x1="178" y1="420" x2="1397" y2="1952" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMA.pdf" dpi="250" page="1" x1="178" y1="420" x2="1397" y2="1952" />
 			<Points>
 				<Point x="134" y="177" lat="43.58981558894118" lon="5.275762218207669" com="" />
 				<Point x="1056" y="5" lat="43.61044431975887" lon="5.4334258663730175" com="" />
@@ -70,7 +70,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMA.pdf" dpi="250" page="2" x1="52" y1="159" x2="1271" y2="1526" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMA.pdf" dpi="250" page="2" x1="52" y1="159" x2="1271" y2="1526" />
 			<Points>
 				<Point x="173" y="149" lat="43.52796107036926" lon="5.351778328351312" com="" />
 				<Point x="1093" y="102" lat="43.53029564106893" lon="5.415849832833806" com="" />
@@ -79,7 +79,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMA.pdf" dpi="250" page="3" x1="179" y1="160" x2="1399" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMA.pdf" dpi="250" page="3" x1="179" y1="160" x2="1399" y2="1947" />
 			<Points>
 				<Point x="331" y="717" lat="43.503375997755185" lon="5.370359256570449" com="" />
 				<Point x="697" y="43" lat="43.505541786866665" lon="5.3700984194480865" com="" />
@@ -88,7 +88,7 @@
 			</Points>
 		</Carte>
 		<Carte type="GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMA.pdf" dpi="250" page="4" x1="50" y1="161" x2="1270" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMA.pdf" dpi="250" page="4" x1="50" y1="161" x2="1270" y2="1947" />
 			<Points>
 				<Point x="411" y="615" lat="43.50623167848365" lon="5.3630492387056705" com="" />
 				<Point x="854" y="1007" lat="43.50554438678459" lon="5.370099582595467" com="" />
@@ -99,7 +99,7 @@
     </AD>
 	<AD name="LFKJ">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKJ.pdf" dpi="250" page="1" x1="177" y1="432" x2="1396" y2="1950" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKJ.pdf" dpi="250" page="1" x1="177" y1="432" x2="1396" y2="1950" />
 			<Points>
 				<Point x="324" y="13" lat="42.12700687459459" lon="8.619398969732133" com="" />
 				<Point x="1190" y="177" lat="42.075658001871496" lon="8.996005238481006" com="" />
@@ -108,7 +108,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKJ.pdf" dpi="250" page="2" x1="29" y1="159" x2="1271" y2="1476" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKJ.pdf" dpi="250" page="2" x1="29" y1="159" x2="1271" y2="1476" />
 			<Points>
 				<Point x="162" y="303" lat="41.93093179266251" lon="8.776765354297233" com="" />
 				<Point x="997" y="221" lat="41.933309034021455" lon="8.808152611021082" com="" />
@@ -117,7 +117,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKJ.pdf" dpi="250" page="3" rot="-85.14" x1="177" y1="160" x2="1397" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKJ.pdf" dpi="250" page="3" rot="-85.14" x1="177" y1="160" x2="1397" y2="1947" />
 			<Points>
 				<Point x="584" y="669" lat="41.92242143920502" lon="8.792449052319592" com="" />
 				<Point x="1081" y="824" lat="41.92211418169559" lon="8.793780378963625" com="" />
@@ -128,7 +128,7 @@
     </AD>
 	<AD name="LFKA">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKA.pdf" dpi="250" page="1" x1="178" y1="421" x2="1397" y2="1561" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKA.pdf" dpi="250" page="1" x1="178" y1="421" x2="1397" y2="1561" />
 			<Points>
 				<Point x="55" y="267" lat="45.6336222340333" lon="6.312983384627695" com="" />
 				<Point x="1047" y="105" lat="45.63728979224444" lon="6.3454594889286335" com="" />
@@ -137,7 +137,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKA.pdf" dpi="250" page="1" x1="178" y1="1567" x2="1397" y2="1730" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKA.pdf" dpi="250" page="1" x1="178" y1="1567" x2="1397" y2="1730" />
 			<Points>
 				<Point x="478" y="27" lat="45.62637600911714" lon="6.325586966954484" com="" />
 				<Point x="756" y="30" lat="45.62884830207144" lon="6.330208549971503" com="" />
@@ -148,7 +148,7 @@
     </AD>
 	<AD name="LFCI">
 		<Carte type="ATT" id="1" com="Circuit Automobile INACTIF">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCI.pdf" dpi="250" page="1" x1="174" y1="380" x2="1393" y2="1324" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCI.pdf" dpi="250" page="1" x1="174" y1="380" x2="1393" y2="1324" />
 			<Points>
 				<Point x="72" y="107" lat="43.941539242848606" lon="2.0648886233081716" com="" />
 				<Point x="1199" y="169" lat="43.938041623454545" lon="2.1536889644716863" com="" />
@@ -157,7 +157,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="Circuit Automobile INACTIF">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCI.pdf" dpi="250" page="1" x1="174" y1="1329" x2="1393" y2="1599" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCI.pdf" dpi="250" page="1" x1="174" y1="1329" x2="1393" y2="1599" />
 			<Points>
 				<Point x="176" y="172" lat="43.91328103484949" lon="2.1009421591141355" com="" />
 				<Point x="722" y="111" lat="43.91479364253413" lon="2.1180975748519546" com="" />
@@ -166,7 +166,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="2" com="Circuit Automobile ACTIF">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCI.pdf" dpi="250" page="2" x1="53" y1="380" x2="1272" y2="1325" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCI.pdf" dpi="250" page="2" x1="53" y1="380" x2="1272" y2="1325" />
 			<Points>
 				<Point x="73" y="109" lat="43.941539242848606" lon="2.0648886233081716" com="" />
 				<Point x="1200" y="171" lat="43.938041623454545" lon="2.1536889644716863" com="" />
@@ -175,7 +175,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="2" com="Circuit Automobile ACTIF">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCI.pdf" dpi="250" page="2" x1="53" y1="1330" x2="1272" y2="1599" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCI.pdf" dpi="250" page="2" x1="53" y1="1330" x2="1272" y2="1599" />
 			<Points>
 				<Point x="178" y="171" lat="43.91328103484949" lon="2.1009421591141355" com="" />
 				<Point x="722" y="109" lat="43.91479364253413" lon="2.1180975748519546" com="" />
@@ -186,7 +186,7 @@
     </AD>
 	<AD name="LFOF">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOF.pdf" dpi="250" page="1" x1="180" y1="406" x2="1397" y2="1622" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOF.pdf" dpi="250" page="1" x1="180" y1="406" x2="1397" y2="1622" />
 			<Points>
 				<Point x="113" y="139" lat="48.45642496569343" lon="0.09144865311900395" com="" />
 				<Point x="1089" y="92" lat="48.45724169730332" lon="0.12512308254358578" com="" />
@@ -197,7 +197,7 @@
     </AD>
 	<AD name="LFMS">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMS.pdf" dpi="250" page="1" x1="179" y1="370" x2="1398" y2="1426" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMS.pdf" dpi="250" page="1" x1="179" y1="370" x2="1398" y2="1426" />
 			<Points>
 				<Point x="115" y="105" lat="44.08885366994348" lon="4.109770328019085" com="" />
 				<Point x="1133" y="72" lat="44.09045445296204" lon="4.174956216817872" com="" />
@@ -206,7 +206,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMS.pdf" dpi="250" page="1" rot="-77" x1="179" y1="1431" x2="1398" y2="1731" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMS.pdf" dpi="250" page="1" rot="-77" x1="179" y1="1431" x2="1398" y2="1731" />
 			<Points>
 				<Point x="299" y="424" lat="44.07577655392797" lon="4.143908298242552" com="" />
 				<Point x="314" y="519" lat="44.07356470769392" lon="4.144404519078947" com="" />
@@ -217,7 +217,7 @@
     </AD>
 	<AD name="LFXA">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFXA.pdf" dpi="250" page="1" x1="179" y1="385" x2="1398" y2="1605" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFXA.pdf" dpi="250" page="1" x1="179" y1="385" x2="1398" y2="1605" />
 			<Points>
 				<Point x="153" y="226" lat="46.00013131288761" lon="5.312826226583505" com="" />
 				<Point x="1155" y="134" lat="46.003155172636404" lon="5.359056512979723" com="" />
@@ -226,7 +226,7 @@
 			</Points>
 		</Carte>
 		<Carte type="GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFXA.pdf" dpi="250" page="2" x1="54" y1="161" x2="1270" y2="1948" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFXA.pdf" dpi="250" page="2" x1="54" y1="161" x2="1270" y2="1948" />
 			<Points>
 				<Point x="9" y="760" lat="45.97180795100084" lon="5.330394945991925" com="" />
 				<Point x="814" y="472" lat="45.97928373092729" lon="5.3264709109563775" com="" />
@@ -237,7 +237,7 @@
     </AD>
 	<AD name="LFHT">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHT.pdf" dpi="250" page="1" x1="178" y1="421" x2="1397" y2="1640" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHT.pdf" dpi="250" page="1" x1="178" y1="421" x2="1397" y2="1640" />
 			<Points>
 				<Point x="68" y="133" lat="45.527166365886806" lon="3.7287085234400004" com="" />
 				<Point x="1067" y="70" lat="45.52853574253111" lon="3.761384253743908" com="" />
@@ -248,7 +248,7 @@
     </AD>
 	<AD name="LFEF">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEF.pdf" dpi="250" page="1" x1="178" y1="421" x2="1397" y2="1496" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEF.pdf" dpi="250" page="1" x1="178" y1="421" x2="1397" y2="1496" />
 			<Points>
 				<Point x="109" y="111" lat="47.35104557784788" lon="0.9086923913151921" com="" />
 				<Point x="1174" y="149" lat="47.34897122116196" lon="0.9805449100070368" com="" />
@@ -257,7 +257,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEF.pdf" dpi="250" page="1" x1="178" y1="1502" x2="1397" y2="1946" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEF.pdf" dpi="250" page="1" x1="178" y1="1502" x2="1397" y2="1946" />
 			<Points>
 				<Point x="275" y="128" lat="47.34224650828354" lon="0.9419309011586217" com="" />
 				<Point x="836" y="229" lat="47.3395787478721" lon="0.950722641667132" com="" />
@@ -268,7 +268,7 @@
     </AD>
 	<AD name="LFAY">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAY.pdf" dpi="250" page="1" x1="171" y1="375" x2="1392" y2="1341" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAY.pdf" dpi="250" page="1" x1="171" y1="375" x2="1392" y2="1341" />
 			<Points>
 				<Point x="204" y="28" lat="49.90262368194839" lon="2.36206984197346" com="" />
 				<Point x="1152" y="86" lat="49.90009732452" lon="2.435623188029666" com="" />
@@ -277,7 +277,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAY.pdf" dpi="250" page="1" x1="169" y1="1348" x2="1393" y2="1693" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAY.pdf" dpi="250" page="1" x1="169" y1="1348" x2="1393" y2="1693" />
 			<Points>
 				<Point x="418" y="31" lat="49.875857524616286" lon="2.37867697404475" com="" />
 				<Point x="926" y="31" lat="49.87075534049395" lon="2.394819371926033" com="" />
@@ -291,7 +291,7 @@
     </AD>
 	<AD name="LFFI">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFI.pdf" dpi="250" page="1" x1="177" y1="417" x2="1396" y2="1318" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFI.pdf" dpi="250" page="1" x1="177" y1="417" x2="1396" y2="1318" />
 			<Points>
 				<Point x="246" y="112" lat="47.4227646856859" lon="-1.1877485221642463" com="" />
 				<Point x="1021" y="75" lat="47.42494307868847" lon="-1.1236752113546158" com="" />
@@ -300,7 +300,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFI.pdf" dpi="250" page="1" x1="177" y1="1324" x2="1396" y2="1659" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFI.pdf" dpi="250" page="1" x1="177" y1="1324" x2="1396" y2="1659" />
 			<Points>
 				<Point x="367" y="107" lat="47.40743303808272" lon="-1.187250764804762" com="" />
 				<Point x="861" y="40" lat="47.41237943127739" lon="-1.1719296161737702" com="" />
@@ -311,7 +311,7 @@
     </AD>
 	<AD name="LFCD">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCD.pdf" dpi="250" page="1" x1="178" y1="406" x2="1397" y2="1378" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCD.pdf" dpi="250" page="1" x1="178" y1="406" x2="1397" y2="1378" />
 			<Points>
 				<Point x="134" y="57" lat="44.77817054407525" lon="-1.1666927390458768" com="" />
 				<Point x="1037" y="55" lat="44.77822280459792" lon="-1.018479305384577" com="" />
@@ -320,7 +320,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCD.pdf" dpi="250" page="1" rot="39.92" x1="178" y1="1383" x2="1397" y2="1716" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCD.pdf" dpi="250" page="1" rot="39.92" x1="178" y1="1383" x2="1397" y2="1716" />
 			<Points>
 				<Point x="299" y="188" lat="44.76075501582306" lon="-1.0749397161120589" com="" />
 				<Point x="824" y="611" lat="44.75117358057228" lon="-1.05728042098453" com="" />
@@ -332,7 +332,7 @@
     </AD>
 	<AD name="LFJR">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJR.pdf" dpi="250" page="1" x1="179" y1="388" x2="1398" y2="1946" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJR.pdf" dpi="250" page="1" x1="179" y1="388" x2="1398" y2="1946" />
 			<Points>
 				<Point x="66" y="253" lat="47.701108136424544" lon="-0.541770436975342" com="" />
 				<Point x="1201" y="264" lat="47.69815277264627" lon="-0.08770923894335686" com="" />
@@ -341,7 +341,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJR.pdf" dpi="250" page="2" x1="52" y1="158" x2="1272" y2="1474" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJR.pdf" dpi="250" page="2" x1="52" y1="158" x2="1272" y2="1474" />
 			<Points>
 				<Point x="137" y="23" lat="47.57865127739667" lon="-0.3345424336581917" com="" />
 				<Point x="1152" y="214" lat="47.573496232780236" lon="-0.2931465240515795" com="" />
@@ -352,7 +352,7 @@
     </AD>
 	<AD name="LFBU">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBU.pdf" dpi="250" page="1" x1="179" y1="424" x2="1398" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBU.pdf" dpi="250" page="1" x1="179" y1="424" x2="1398" y2="1947" />
 			<Points>
 				<Point x="274" y="303" lat="45.817324980657055" lon="0.14357022725398427" com="" />
 				<Point x="1214" y="264" lat="45.827705922587796" lon="0.45345219673454945" com="" />
@@ -363,7 +363,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBU.pdf" dpi="250" page="2" x1="51" y1="160" x2="1272" y2="1310" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBU.pdf" dpi="250" page="2" x1="51" y1="160" x2="1272" y2="1310" />
 			<Points>
 				<Point x="45" y="161" lat="45.75778084623523" lon="0.17536165637426182" com="" />
 				<Point x="1143" y="222" lat="45.75406121169161" lon="0.26714112784072025" com="" />
@@ -372,7 +372,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBU.pdf" dpi="250" page="2" x1="51" y1="1315" x2="1273" y2="1659" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBU.pdf" dpi="250" page="2" x1="51" y1="1315" x2="1273" y2="1659" />
 			<Points>
 				<Point x="46" y="32" lat="45.73152295496823" lon="0.2011866560554618" com="" />
 				<Point x="1157" y="110" lat="45.72982620908449" lon="0.23762243186078452" com="" />
@@ -381,7 +381,7 @@
 			</Points>
 		</Carte>
 		<Carte type="GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBU.pdf" dpi="250" page="3" rot="-83" x1="176" y1="160" x2="1395" y2="1946" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBU.pdf" dpi="250" page="3" rot="-83" x1="176" y1="160" x2="1395" y2="1946" />
 			<Points>
 				<Point x="90" y="753" lat="45.73037087338616" lon="0.20645790233915556" com="" />
 				<Point x="1800" y="918" lat="45.72873914092945" lon="0.23025749816102398" com="" />
@@ -390,7 +390,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBU.pdf" dpi="250" page="4" rot="-93.95" x1="178" y1="160" x2="1397" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBU.pdf" dpi="250" page="4" rot="-93.95" x1="178" y1="160" x2="1397" y2="1947" />
 			<Points>
 				<Point x="147" y="397" lat="45.72673149529343" lon="0.220524334727931" com="" />
 				<Point x="1635" y="386" lat="45.72734188014132" lon="0.2156377483516323" com="" />
@@ -401,7 +401,7 @@
     </AD>
 	<AD name="LFLP">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLP.pdf" dpi="250" page="1" x1="179" y1="397" x2="1397" y2="1959" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLP.pdf" dpi="250" page="1" x1="179" y1="397" x2="1397" y2="1959" />
 			<Points>
 				<Point x="296" y="45" lat="46.11105746040792" lon="5.987674657346576" com="" />
 				<Point x="1132" y="376" lat="46.040296178131015" lon="6.2470810422728125" com="" />
@@ -410,7 +410,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLP.pdf" dpi="250" page="2" x1="53" y1="161" x2="1271" y2="1258" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLP.pdf" dpi="250" page="2" x1="53" y1="161" x2="1271" y2="1258" />
 			<Points>
 				<Point x="19" y="61" lat="45.94277532697035" lon="6.060635100910815" com="" />
 				<Point x="821" y="113" lat="45.94051910549928" lon="6.113609014292841" com="" />
@@ -420,7 +420,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLP.pdf" dpi="250" page="2" rot="-52" x1="53" y1="1263" x2="1271" y2="1648" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLP.pdf" dpi="250" page="2" rot="-52" x1="53" y1="1263" x2="1271" y2="1648" />
 			<Points>
 				<Point x="439" y="600" lat="45.929185" lon="6.099075" com="" />
 				<Point x="570" y="432" lat="45.932662" lon="6.103010" com="" />
@@ -434,7 +434,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLP.pdf" dpi="250" page="3" rot="38.0" x1="179" y1="160" x2="1399" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLP.pdf" dpi="250" page="3" rot="38.0" x1="179" y1="160" x2="1399" y2="1947" />
 			<Points>
 				<Point x="1407" y="337" lat="45.932283" lon="6.106553" com="" />
 				<Point x="1524" y="420" lat="45.93188316586884" lon="6.1073165646614" com="" />
@@ -455,7 +455,7 @@
     </AD>
 	<AD name="LFLI">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLI.pdf" dpi="250" page="1" rot="0" x1="179" y1="430" x2="1397" y2="1952" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLI.pdf" dpi="250" page="1" rot="0" x1="179" y1="430" x2="1397" y2="1952" />
 			<Points>
 				<Point x="19" y="276" lat="46.375920575983564" lon="5.878947015898476" com="" />
 				<Point x="1104" y="8" lat="46.46551434566376" lon="6.374088271262886" com="" />
@@ -464,7 +464,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLI.pdf" dpi="250" page="2" rot="0" x1="101" y1="154" x2="1320" y2="1146" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLI.pdf" dpi="250" page="2" rot="0" x1="101" y1="154" x2="1320" y2="1146" />
 			<Points>
 				<Point x="248" y="146" lat="46.20388893349999" lon="6.222706389202567" com="" />
 				<Point x="788" y="109" lat="46.20730511572172" lon="6.293331039871581" com="" />
@@ -473,7 +473,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLI.pdf" dpi="250" page="2" rot="28" x1="101" y1="1151" x2="1320" y2="1477" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLI.pdf" dpi="250" page="2" rot="28" x1="101" y1="1151" x2="1320" y2="1477" />
 			<Points>
 				<Point x="193" y="288" lat="46.19476107889353" lon="6.261057592322313" com="" />
 				<Point x="424" y="297" lat="46.19481629809356" lon="6.267111497445294" com="" />
@@ -485,7 +485,7 @@
     </AD>
 	<AD name="LFCH">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCH.pdf" dpi="250" page="1" rot="0" x1="175" y1="439" x2="1395" y2="1762" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCH.pdf" dpi="250" page="1" rot="0" x1="175" y1="439" x2="1395" y2="1762" />
 			<Points>
 				<Point x="232" y="27" lat="44.68645112428371" lon="-1.2377506129760807" com="" />
 				<Point x="1026" y="49" lat="44.681777789651704" lon="-1.013423584937634" com="" />
@@ -494,7 +494,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCH.pdf" dpi="250" page="2" rot="0" x1="53" y1="161" x2="1272" y2="1527" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCH.pdf" dpi="250" page="2" rot="0" x1="53" y1="161" x2="1272" y2="1527" />
 			<Points>
 				<Point x="123" y="79" lat="44.61101502829847" lon="-1.12927044673516" com="" />
 				<Point x="931" y="360" lat="44.60455202008702" lon="-1.103071512125727" com="" />
@@ -503,7 +503,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCH.pdf" dpi="250" page="3" rot="75.33" x1="177" y1="160" x2="1397" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCH.pdf" dpi="250" page="3" rot="75.33" x1="177" y1="160" x2="1397" y2="1947" />
 			<Points>
 				<Point x="404" y="627" lat="44.59731964308548" lon="-1.1146872791035691" com="" />
 				<Point x="1291" y="877" lat="44.59708491317824" lon="-1.1132941414385402" com="" />
@@ -514,7 +514,7 @@
     </AD>
 	<AD name="LFAJ">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAJ.pdf" dpi="250" page="1" rot="0" x1="179" y1="406" x2="1397" y2="1625" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAJ.pdf" dpi="250" page="1" rot="0" x1="179" y1="406" x2="1397" y2="1625" />
 			<Points>
 				<Point x="217" y="97" lat="48.72244395683401" lon="-0.011331708830878978" com="" />
 				<Point x="1180" y="339" lat="48.7168856542131" lon="0.022023140266915736" com="" />
@@ -525,7 +525,7 @@
     </AD>
 	<AD name="LFEG">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEG.pdf" dpi="250" page="1" rot="0" x1="174" y1="379" x2="1393" y2="1676" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEG.pdf" dpi="250" page="1" rot="0" x1="174" y1="379" x2="1393" y2="1676" />
 			<Points>
 				<Point x="53" y="330" lat="46.60145142585637" lon="1.5817021457188827" com="" />
 				<Point x="1052" y="342" lat="46.60131448451782" lon="1.6148470316564172" com="" />
@@ -534,7 +534,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="North Arrow error">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEG.pdf" dpi="250" page="1" rot="-56" x1="174" y1="1681" x2="1393" y2="1946" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEG.pdf" dpi="250" page="1" rot="-56" x1="174" y1="1681" x2="1393" y2="1946" />
 			<Points>
 				<Point x="350" y="550" lat="46.59585115948585" lon="1.598881856833929" com="" />
 				<Point x="636" y="278" lat="46.59892051244166" lon="1.6036446007842258" com="" />
@@ -545,7 +545,7 @@
     </AD>
 	<AD name="LFQD">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFQD.pdf" dpi="250" page="1" rot="0" x1="179" y1="385" x2="1398" y2="1604" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFQD.pdf" dpi="250" page="1" rot="0" x1="179" y1="385" x2="1398" y2="1604" />
 			<Points>
 				<Point x="256" y="451" lat="50.32539728414051" lon="2.7880849600347353" com="" />
 				<Point x="1075" y="163" lat="50.33200167871249" lon="2.817357891476816" com="" />
@@ -556,7 +556,7 @@
     </AD>
 	<AD name="LFNJ">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNJ.pdf" dpi="250" page="1" rot="0" x1="179" y1="408" x2="1397" y2="1625" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNJ.pdf" dpi="250" page="1" rot="0" x1="179" y1="408" x2="1397" y2="1625" />
 			<Points>
 				<Point x="351" y="393" lat="44.52258250878478" lon="5.7290256395856" com="" />
 				<Point x="1165" y="392" lat="44.52273124898567" lon="5.755287594343102" com="" />
@@ -568,7 +568,7 @@
     </AD>
 	<AD name="LFHO">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHO.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHO.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
 			<Points>
 				<Point x="49" y="152" lat="44.564379464757906" lon="4.345323909347932" com="" />
 				<Point x="814" y="49" lat="44.568472531511645" lon="4.391020349078436" com="" />
@@ -579,7 +579,7 @@
     </AD>
 	<AD name="LFJF">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJF.pdf" dpi="250" page="1" rot="0" x1="178" y1="404" x2="1397" y2="1623" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJF.pdf" dpi="250" page="1" rot="0" x1="178" y1="404" x2="1397" y2="1623" />
 			<Points>
 				<Point x="178" y="111" lat="44.70955288438403" lon="5.122901560683445" com="" />
 				<Point x="1198" y="594" lat="44.69382294231773" lon="5.1703149671381015" com="" />
@@ -590,7 +590,7 @@
     </AD>
 	<AD name="LFEH">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEH.pdf" dpi="250" page="1" rot="0" x1="177" y1="383" x2="1396" y2="1602" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEH.pdf" dpi="250" page="1" rot="0" x1="177" y1="383" x2="1396" y2="1602" />
 			<Points>
 				<Point x="325" y="115" lat="47.491282377066156" lon="2.382594879833847" com="" />
 				<Point x="1153" y="307" lat="47.48661092340207" lon="2.4109927920475394" com="" />
@@ -601,7 +601,7 @@
     </AD>
 	<AD name="LFDH">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFDH.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1713" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFDH.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1713" />
 			<Points>
 				<Point x="171" y="416" lat="43.689450682117595" lon="0.5856549554306164" com="" />
 				<Point x="922" y="117" lat="43.69619241244632" lon="0.6094542441011073" com="" />
@@ -612,7 +612,7 @@
     </AD>
 	<AD name="LFLW">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLW.pdf" dpi="250" page="1" rot="0" x1="178" y1="387" x2="1396" y2="1606" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLW.pdf" dpi="250" page="1" rot="0" x1="178" y1="387" x2="1396" y2="1606" />
 			<Points>
 				<Point x="300" y="316" lat="44.898017990590006" lon="2.4117167441847878" com="" />
 				<Point x="909" y="219" lat="44.900125196383236" lon="2.431318535496643" com="" />
@@ -623,7 +623,7 @@
     </AD>
 	<AD name="LFQF">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFQF.pdf" dpi="250" page="1" rot="0" x1="178" y1="425" x2="1397" y2="1644" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFQF.pdf" dpi="250" page="1" rot="0" x1="178" y1="425" x2="1397" y2="1644" />
 			<Points>
 				<Point x="494" y="80" lat="46.97735762580968" lon="4.259469430454873" com="" />
 				<Point x="871" y="384" lat="46.97033764518739" lon="4.272106549469598" com="" />
@@ -634,7 +634,7 @@
     </AD>
 	<AD name="LFLA">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLA.pdf" dpi="250" page="1" rot="0" x1="178" y1="388" x2="1398" y2="1412" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLA.pdf" dpi="250" page="1" rot="0" x1="178" y1="388" x2="1398" y2="1412" />
 			<Points>
 				<Point x="245" y="212" lat="47.870922809136836" lon="3.4360783414793703" com="" />
 				<Point x="1083" y="136" lat="47.876709243425175" lon="3.5309869656618473" com="" />
@@ -643,7 +643,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLA.pdf" dpi="250" page="1" rot="-83.5" x1="178" y1="1417" x2="1398" y2="1690" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLA.pdf" dpi="250" page="1" rot="-83.5" x1="178" y1="1417" x2="1398" y2="1690" />
 			<Points>
 				<Point x="185" y="256" lat="47.857773377572144" lon="3.497838400525543" com="" />
 				<Point x="234" y="688" lat="47.84764222560851" lon="3.4997304067037365" com="" />
@@ -657,7 +657,7 @@
     </AD>
 	<AD name="LFGE">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGE.pdf" dpi="250" page="1" rot="0" x1="177" y1="384" x2="1396" y2="1603" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGE.pdf" dpi="250" page="1" rot="0" x1="177" y1="384" x2="1396" y2="1603" />
 			<Points>
 				<Point x="173" y="607" lat="47.50234481631369" lon="3.8834583763543846" com="" />
 				<Point x="927" y="169" lat="47.51235177697808" lon="3.909026233331925" com="" />
@@ -668,7 +668,7 @@
     </AD>
 	<AD name="LFMV">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMV.pdf" dpi="250" page="1" rot="0" x1="150" y1="395" x2="1424" y2="1972" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMV.pdf" dpi="250" page="1" rot="0" x1="150" y1="395" x2="1424" y2="1972" />
 			<Points>
 				<Point x="111" y="350" lat="44.05776203860673" lon="4.709827718269307" com="" />
 				<Point x="1180" y="360" lat="44.05564712122183" lon="5.05161923722119" com="" />
@@ -677,7 +677,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMV.pdf" dpi="250" page="2" rot="0" x1="54" y1="155" x2="1273" y2="1494" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMV.pdf" dpi="250" page="2" rot="0" x1="54" y1="155" x2="1273" y2="1494" />
 			<Points>
 				<Point x="51" y="124" lat="43.94958322318602" lon="4.859868520747113" com="" />
 				<Point x="997" y="467" lat="43.92677831004162" lon="4.948488844680527" com="" />
@@ -686,7 +686,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMV.pdf" dpi="250" page="2" rot="79" x1="53" y1="1499" x2="1274" y2="1948" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMV.pdf" dpi="250" page="2" rot="79" x1="53" y1="1499" x2="1274" y2="1948" />
 			<Points>
 				<Point x="288" y="311" lat="43.91564070815077" lon="4.899867503580559" com="" />
 				<Point x="501" y="561" lat="43.91008033857083" lon="4.907051242933827" com="" />
@@ -700,7 +700,7 @@
 			</Points>
 		</Carte>
 		<Carte type="GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMV.pdf" dpi="250" page="3" rot="0" x1="176" y1="160" x2="1395" y2="1946" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMV.pdf" dpi="250" page="3" rot="0" x1="176" y1="160" x2="1395" y2="1946" />
 			<Points>
 				<Point x="425" y="445" lat="43.915642123502415" lon="4.899868752170609" com="" />
 				<Point x="688" y="665" lat="43.91238321205499" lon="4.905290634825264" com="" />
@@ -722,7 +722,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMV.pdf" dpi="250" page="4" rot="-11.15" x1="53" y1="160" x2="1273" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMV.pdf" dpi="250" page="4" rot="-11.15" x1="53" y1="160" x2="1273" y2="1947" />
 			<Points>
 				<Point x="302" y="299" lat="43.90657962123158" lon="4.896989642589398" com="" />
 				<Point x="823" y="177" lat="43.90694200455296" lon="4.899348667214765" com="" />
@@ -733,7 +733,7 @@
     </AD>
 	<AD name="LFNT">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNT.pdf" dpi="250" page="1" rot="0" x1="178" y1="425" x2="1397" y2="1631" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNT.pdf" dpi="250" page="1" rot="0" x1="178" y1="425" x2="1397" y2="1631" />
 			<Points>
 				<Point x="196" y="46" lat="44.00753154154656" lon="4.741423857727105" com="" />
 				<Point x="1095" y="241" lat="44.00306174577096" lon="4.770108483449982" com="" />
@@ -744,7 +744,7 @@
     </AD>
 	<AD name="LFRW">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRW.pdf" dpi="250" page="1" rot="0" x1="179" y1="419" x2="1398" y2="1641" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRW.pdf" dpi="250" page="1" rot="0" x1="179" y1="419" x2="1398" y2="1641" />
 			<Points>
 				<Point x="186" y="167" lat="48.673949786480144" lon="-1.4160826938417919" com="" />
 				<Point x="1021" y="240" lat="48.67231001367159" lon="-1.387397570462944" com="" />
@@ -755,7 +755,7 @@
     </AD>
 	<AD name="LFCB">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCB.pdf" dpi="250" page="1" rot="0" x1="164" y1="398" x2="1383" y2="1960" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCB.pdf" dpi="250" page="1" rot="0" x1="164" y1="398" x2="1383" y2="1960" />
 			<Points>
 				<Point x="408" y="200" lat="42.981603053783935" lon="0.5376380971718782" com="" />
 				<Point x="798" y="428" lat="42.92830825809575" lon="0.6621830201587271" com="" />
@@ -764,7 +764,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="RWY 01 Configuration">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCB.pdf" dpi="250" page="2" rot="0" x1="59" y1="152" x2="1278" y2="1803" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCB.pdf" dpi="250" page="2" rot="0" x1="59" y1="152" x2="1278" y2="1803" />
 			<Points>
 				<Point x="134" y="81" lat="42.81548959036222" lon="0.5773770340299376" com="" />
 				<Point x="892" y="301" lat="42.812871630812474" lon="0.6018819084098169" com="" />
@@ -773,7 +773,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="2" com="RWY 19 Configuration">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCB.pdf" dpi="250" page="3" rot="0" x1="178" y1="152" x2="1397" y2="1803" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCB.pdf" dpi="250" page="3" rot="0" x1="178" y1="152" x2="1397" y2="1803" />
 			<Points>
 				<Point x="134" y="81" lat="42.81548959036222" lon="0.5773770340299376" com="" />
 				<Point x="892" y="301" lat="42.812871630812474" lon="0.6018819084098169" com="" />
@@ -784,7 +784,7 @@
     </AD>
 	<AD name="LFAO">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAO.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAO.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
 			<Points>
 				<Point x="94" y="277" lat="48.55267140524332" lon="-0.40350223825869894" com="" />
 				<Point x="1133" y="466" lat="48.54824138051058" lon="-0.3674485727078559" com="" />
@@ -795,7 +795,7 @@
     </AD>
 	<AD name="LFFL">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFL.pdf" dpi="250" page="1" rot="0" x1="178" y1="386" x2="1397" y2="1606" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFL.pdf" dpi="250" page="1" rot="0" x1="178" y1="386" x2="1397" y2="1606" />
 			<Points>
 				<Point x="335" y="264" lat="48.528220784530376" lon="1.628467200647649" com="" />
 				<Point x="954" y="84" lat="48.532388828056625" lon="1.6500633578611696" com="" />
@@ -806,7 +806,7 @@
     </AD>
 	<AD name="LFSB">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSB.pdf" dpi="250" page="1" rot="0" x1="178" y1="430" x2="1397" y2="1951" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSB.pdf" dpi="250" page="1" rot="0" x1="178" y1="430" x2="1397" y2="1951" />
 			<Points>
 				<Point x="161" y="38" lat="47.82645550559919" lon="7.285718724976897" com="" />
 				<Point x="960" y="80" lat="47.81537442946796" lon="7.611287247996198" com="" />
@@ -815,7 +815,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSB.pdf" dpi="250" page="2" rot="0" x1="51" y1="160" x2="1270" y2="1526" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSB.pdf" dpi="250" page="2" rot="0" x1="51" y1="160" x2="1270" y2="1526" />
 			<Points>
 				<Point x="113" y="113" lat="47.63487710163413" lon="7.4926208455789" com="" />
 				<Point x="694" y="15" lat="47.639277954068426" lon="7.532433632578562" com="" />
@@ -824,7 +824,7 @@
 			</Points>
 		</Carte> 
 		<Carte type="GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSB.pdf" dpi="250" page="3" rot="-26" x1="177" y1="161" x2="1397" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSB.pdf" dpi="250" page="3" rot="-26" x1="177" y1="161" x2="1397" y2="1947" />
 			<Points>
 				<Point x="688" y="363" lat="47.61758926972418" lon="7.509509969833807" com="" />
 				<Point x="1172" y="954" lat="47.60300971437029" lon="7.526860557114377" com="" />
@@ -833,7 +833,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSB.pdf" dpi="250" page="4" rot="0" x1="53" y1="160" x2="1273" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSB.pdf" dpi="250" page="4" rot="0" x1="53" y1="160" x2="1273" y2="1947" />
 			<Points>
 				<Point x="53" y="100" lat="47.60426805204057" lon="7.522955374987212" com="" />
 				<Point x="1013" y="571" lat="47.603008332860966" lon="7.526860143358203" com="" />
@@ -844,7 +844,7 @@
     </AD>
 	<AD name="LFEU">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEU.pdf" dpi="250" page="1" rot="0" x1="178" y1="421" x2="1397" y2="1640" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEU.pdf" dpi="250" page="1" rot="0" x1="178" y1="421" x2="1397" y2="1640" />
 			<Points>
 				<Point x="192" y="542" lat="48.869520944456355" lon="5.173010742750564" com="" />
 				<Point x="784" y="308" lat="48.87506787890366" lon="5.193631359181726" com="" />
@@ -855,7 +855,7 @@
     </AD>
 	<AD name="LFFR">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFR.pdf" dpi="250" page="1" rot="0" x1="177" y1="400" x2="1396" y2="1619" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFR.pdf" dpi="250" page="1" rot="0" x1="177" y1="400" x2="1396" y2="1619" />
 			<Points>
 				<Point x="90" y="35" lat="48.07891884152865" lon="4.394786833800119" com="" />
 				<Point x="1104" y="188" lat="48.07554072888279" lon="4.42976720802868" com="" />
@@ -866,7 +866,7 @@
     </AD>
 	<AD name="LFMR">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMR.pdf" dpi="250" page="1" rot="0" x1="178" y1="374" x2="1397" y2="1703" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMR.pdf" dpi="250" page="1" rot="0" x1="178" y1="374" x2="1397" y2="1703" />
 			<Points>
 				<Point x="145" y="331" lat="44.394515972252044" lon="6.595186165278889" com="" />
 				<Point x="1170" y="420" lat="44.39243238015196" lon="6.627967578361169" com="" />
@@ -877,7 +877,7 @@
     </AD>
 	<AD name="LFKB">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKB.pdf" dpi="250" page="1" rot="0" x1="179" y1="408" x2="1398" y2="1943" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKB.pdf" dpi="250" page="1" rot="0" x1="179" y1="408" x2="1398" y2="1943" />
 			<Points>
 				<Point x="104" y="383" lat="42.735482246476415" lon="9.221421888996339" com="" />
 				<Point x="563" y="364" lat="42.74274267640749" lon="9.461738321402896" com="" />
@@ -886,7 +886,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="ACFT">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKB.pdf" dpi="250" page="2" rot="0" x1="52" y1="160" x2="1271" y2="1526" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKB.pdf" dpi="250" page="2" rot="0" x1="52" y1="160" x2="1271" y2="1526" />
 			<Points>
 				<Point x="240" y="195" lat="42.56666667" lon="9.46666667" com="" />
 				<Point x="1006" y="195" lat="42.56666667" lon="9.50000000" com="" />
@@ -895,7 +895,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="2" com="HEL RWY 16 Configuration">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKB.pdf" dpi="250" page="3" rot="0" x1="180" y1="163" x2="1399" y2="1527" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKB.pdf" dpi="250" page="3" rot="0" x1="180" y1="163" x2="1399" y2="1527" />
 			<Points>
 				<Point x="193" y="401" lat="42.56666667" lon="9.45000000" com="" />
 				<Point x="1189" y="401" lat="42.56666667" lon="9.51666667" com="" />
@@ -904,7 +904,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="2" com="HEL RWY 16 Configuration">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKB.pdf" dpi="250" page="3" rot="73" x1="181" y1="1533" x2="1399" y2="1811" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKB.pdf" dpi="250" page="3" rot="73" x1="181" y1="1533" x2="1399" y2="1811" />
 			<Points>
 				<Point x="71" y="72" lat="42.57183125400299" lon="9.470163467874412" com="" />
 				<Point x="355" y="425" lat="42.560797694298095" lon="9.482106983762154" com="" />
@@ -913,7 +913,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="3" com="HEL RWY 34 Configuration">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKB.pdf" dpi="250" page="4" rot="0" x1="54" y1="160" x2="1273" y2="1524" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKB.pdf" dpi="250" page="4" rot="0" x1="54" y1="160" x2="1273" y2="1524" />
 			<Points>
 				<Point x="192" y="400" lat="42.56666667" lon="9.45000000" com="" />
 				<Point x="1188" y="400" lat="42.56666667" lon="9.51666667" com="" />
@@ -922,7 +922,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="3" com="HEL RWY 34 Configuration">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKB.pdf" dpi="250" page="4" rot="73" x1="54" y1="1530" x2="1273" y2="1808" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKB.pdf" dpi="250" page="4" rot="73" x1="54" y1="1530" x2="1273" y2="1808" />
 			<Points>
 				<Point x="51" y="219" lat="42.5659522354815" lon="9.469634417568582" com="" />
 				<Point x="345" y="390" lat="42.560797694298095" lon="9.482106983762154" com="" />
@@ -933,7 +933,7 @@
     </AD>
 	<AD name="LFGF">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGF.pdf" dpi="250" page="1" rot="0" x1="179" y1="368" x2="1397" y2="1409" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGF.pdf" dpi="250" page="1" rot="0" x1="179" y1="368" x2="1397" y2="1409" />
 			<Points>
 				<Point x="96" y="330" lat="47.01666667" lon="4.85000000" com="" />
 				<Point x="1115" y="330" lat="47.01666667" lon="4.93333333" com="" />
@@ -942,7 +942,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGF.pdf" dpi="250" page="1" rot="-64" x1="179" y1="1414" x2="1397" y2="1708" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGF.pdf" dpi="250" page="1" rot="-64" x1="179" y1="1414" x2="1397" y2="1708" />
 			<Points>
 				<Point x="511" y="158" lat="47.01411168043045" lon="4.894757284628626" com="" />
 				<Point x="626" y="420" lat="47.01020964748707" lon="4.897321759462451" com="" />
@@ -953,7 +953,7 @@
     </AD>
 	<AD name="LFOB">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOB.pdf" dpi="250" page="1" rot="0" x1="178" y1="385" x2="1397" y2="1948" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOB.pdf" dpi="250" page="1" rot="0" x1="178" y1="385" x2="1397" y2="1948" />
 			<Points>
 				<Point x="54" y="210" lat="49.58333333" lon="1.91666667" com="" />
 				<Point x="1190" y="210" lat="49.58333333" lon="2.31666667" com="" />
@@ -962,7 +962,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOB.pdf" dpi="250" page="2" rot="0" x1="51" y1="161" x2="1270" y2="1526" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOB.pdf" dpi="250" page="2" rot="0" x1="51" y1="161" x2="1270" y2="1526" />
 			<Points>
 				<Point x="174" y="144" lat="49.46666667" lon="2.10000000" com="" />
 				<Point x="967" y="144" lat="49.46666667" lon="2.13333333" com="" />
@@ -971,7 +971,7 @@
 			</Points>
 		</Carte>
 		<Carte type="GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOB.pdf" dpi="250" page="3" rot="-56" x1="177" y1="161" x2="1397" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOB.pdf" dpi="250" page="3" rot="-56" x1="177" y1="161" x2="1397" y2="1947" />
 			<Points>
 				<Point x="336" y="781" lat="49.45871812068095" lon="2.1042669796121785" com="" />
 				<Point x="1214" y="548" lat="49.46205007075423" lon="2.1233941795489075" com="" />
@@ -980,7 +980,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" page="1" com="PKG T1">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOB.pdf" dpi="250" page="4" rot="42" x1="53" y1="160" x2="1273" y2="980" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOB.pdf" dpi="250" page="4" rot="42" x1="53" y1="160" x2="1273" y2="980" />
 			<Points>
 				<Point x="357" y="393" lat="49.45926245209161" lon="2.109872576976138" com="" />
 				<Point x="1016" y="511" lat="49.45885548836238" lon="2.113477906527607" com="" />
@@ -989,7 +989,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" page="2" com="PKG NORTH">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOB.pdf" dpi="250" page="4" rot="0" x1="53" y1="984" x2="1273" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOB.pdf" dpi="250" page="4" rot="0" x1="53" y1="984" x2="1273" y2="1947" />
 			<Points>
 				<Point x="284" y="367" lat="49.462715949937405" lon="2.1185575958668177" com="" />
 				<Point x="1045" y="32" lat="49.463881" lon="2.122598" com="" />
@@ -1000,7 +1000,7 @@
     </AD>
 	<AD name="LFFO">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFO.pdf" dpi="250" page="1" rot="0" x1="177" y1="383" x2="1396" y2="1315" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFO.pdf" dpi="250" page="1" rot="0" x1="177" y1="383" x2="1396" y2="1315" />
 			<Points>
 				<Point x="106" y="262" lat="46.91666667" lon="-2.15000000" com="" />
 				<Point x="1041" y="262" lat="46.91666667" lon="-2.05000000" com="" />
@@ -1009,7 +1009,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFO.pdf" dpi="250" page="1" rot="10" x1="177" y1="1321" x2="1396" y2="1687" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFO.pdf" dpi="250" page="1" rot="10" x1="177" y1="1321" x2="1396" y2="1687" />
 			<Points>
 				<Point x="198" y="114" lat="46.89113728308695" lon="-2.092849167407099" com="" />
 				<Point x="1091" y="272" lat="46.890307364423286" lon="-2.084648478471446" com="" />
@@ -1020,7 +1020,7 @@
     </AD>
 	<AD name="LFNX">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNX.pdf" dpi="250" page="1" rot="0" x1="178" y1="395" x2="1397" y2="1577" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNX.pdf" dpi="250" page="1" rot="0" x1="178" y1="395" x2="1397" y2="1577" />
 			<Points>
 				<Point x="235" y="361" lat="43.64510708252751" lon="3.1248134183934826" com="" />
 				<Point x="919" y="336" lat="43.64624564564959" lon="3.16818771319313" com="" />
@@ -1029,7 +1029,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNX.pdf" dpi="250" page="1" rot="82.5" x1="177" y1="1582" x2="1398" y2="1760" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNX.pdf" dpi="250" page="1" rot="82.5" x1="177" y1="1582" x2="1398" y2="1760" />
 			<Points>
 				<Point x="92" y="337" lat="43.644214716104614" lon="3.1441392910488273" com="" />
 				<Point x="200" y="633" lat="43.63977157375048" lon="3.146304608207127" com="" />
@@ -1040,7 +1040,7 @@
     </AD>
 	<AD name="LFGG">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGG.pdf" dpi="250" page="1" rot="0" x1="179" y1="417" x2="1398" y2="1636" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGG.pdf" dpi="250" page="1" rot="0" x1="179" y1="417" x2="1398" y2="1636" />
 			<Points>
 				<Point x="175" y="107" lat="47.71291580313422" lon="6.817170330861057" com="" />
 				<Point x="736" y="116" lat="47.71273318653992" lon="6.836133912173853" com="" />
@@ -1051,7 +1051,7 @@
     </AD>
 	<AD name="LFEA">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEA.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEA.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
 			<Points>
 				<Point x="228" y="466" lat="47.3258291305396" lon="-3.2138131109882657" com="" />
 				<Point x="1010" y="213" lat="47.33167145489011" lon="-3.187528975252414" com="" />
@@ -1062,7 +1062,7 @@
     </AD>
 	<AD name="LFHN">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHN.pdf" dpi="250" page="1" rot="0" x1="177" y1="392" x2="1396" y2="1461" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHN.pdf" dpi="250" page="1" rot="0" x1="177" y1="392" x2="1396" y2="1461" />
 			<Points>
 				<Point x="234" y="77" lat="46.164956204761225" lon="5.756335882118112" com="" />
 				<Point x="917" y="46" lat="46.167728961030036" lon="5.846437327659172" com="" />
@@ -1071,7 +1071,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHN.pdf" dpi="250" page="1" rot="-84" x1="177" y1="1467" x2="1396" y2="1692" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHN.pdf" dpi="250" page="1" rot="-84" x1="177" y1="1467" x2="1396" y2="1692" />
 			<Points>
 				<Point x="131" y="377" lat="46.12651041605019" lon="5.805298191490495" com="" />
 				<Point x="272" y="574" lat="46.12390069488983" lon="5.808239712656264" com="" />
@@ -1082,7 +1082,7 @@
     </AD>
 	<AD name="LFHW">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHW.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1628" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHW.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1628" />
 			<Points>
 				<Point x="59" y="157" lat="46.15084436384832" lon="4.699804337366325" com="" />
 				<Point x="1147" y="144" lat="46.151207003052036" lon="4.735911762846733" com="" />
@@ -1093,7 +1093,7 @@
     </AD>
 	<AD name="LFKY">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKY.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKY.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
 			<Points>
 				<Point x="83" y="336" lat="45.70595842294601" lon="5.676433003377339" com="" />
 				<Point x="748" y="222" lat="45.70857843946315" lon="5.6984543270456305" com="" />
@@ -1104,7 +1104,7 @@
     </AD>
 	<AD name="LFIB">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFIB.pdf" dpi="250" page="1" rot="0" x1="176" y1="405" x2="1395" y2="1622" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFIB.pdf" dpi="250" page="1" rot="0" x1="176" y1="405" x2="1395" y2="1622" />
 			<Points>
 				<Point x="41" y="330" lat="44.78894243971731" lon="0.9345399387521519" com="" />
 				<Point x="884" y="214" lat="44.79151771331168" lon="0.961679905823069" com="" />
@@ -1115,7 +1115,7 @@
     </AD>
 	<AD name="LFAM">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAM.pdf" dpi="250" page="1" rot="0" x1="178" y1="379" x2="1410" y2="1598" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAM.pdf" dpi="250" page="1" rot="0" x1="178" y1="379" x2="1410" y2="1598" />
 			<Points>
 				<Point x="201" y="151" lat="50.43533335214088" lon="1.5788175431172007" com="" />
 				<Point x="946" y="364" lat="50.43064414506222" lon="1.6061503082312159" com="" />
@@ -1126,7 +1126,7 @@
     </AD>
 	<AD name="LFBE">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBE.pdf" dpi="250" page="1" rot="0" x1="178" y1="414" x2="1397" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBE.pdf" dpi="250" page="1" rot="0" x1="178" y1="414" x2="1397" y2="1947" />
 			<Points>
 				<Point x="103" y="155" lat="45.006773886410826" lon="0.3320510474205912" com="" />
 				<Point x="959" y="78" lat="45.02882287020595" lon="0.7199701769919538" com="" />
@@ -1135,7 +1135,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBE.pdf" dpi="250" page="2" rot="0" x1="54" y1="160" x2="1273" y2="1526" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBE.pdf" dpi="250" page="2" rot="0" x1="54" y1="160" x2="1273" y2="1526" />
 			<Points>
 				<Point x="94" y="660" lat="44.827350749746806" lon="0.5019403751540407" com="" />
 				<Point x="1039" y="132" lat="44.83935734977433" lon="0.5324601068005224" com="" />
@@ -1144,7 +1144,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBE.pdf" dpi="250" page="3" rot="94" x1="177" y1="131" x2="1396" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBE.pdf" dpi="250" page="3" rot="94" x1="177" y1="131" x2="1396" y2="1947" />
 			<Points>
 				<Point x="76" y="156" lat="44.8233200674207" lon="0.5099180436209765" com="" />
 				<Point x="1711" y="496" lat="44.82284143787905" lon="0.5130308603604257" com="" />
@@ -1155,7 +1155,7 @@
     </AD>
 	<AD name="LFPD">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPD.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1396" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPD.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1396" />
 			<Points>
 				<Point x="140" y="362" lat="49.12088501552087" lon="0.5295125946705482" com="" />
 				<Point x="1117" y="14" lat="49.1369703734475" lon="0.5977200228466855" com="" />
@@ -1164,7 +1164,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPD.pdf" dpi="250" page="1" rot="8" x1="178" y1="1402" x2="1397" y2="1731" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPD.pdf" dpi="250" page="1" rot="8" x1="178" y1="1402" x2="1397" y2="1731" />
 			<Points>
 				<Point x="438" y="212" lat="49.10318322267033" lon="0.5574205710411575" com="" />
 				<Point x="905" y="278" lat="49.10169949734757" lon="0.5736913693503042" com="" />
@@ -1176,7 +1176,7 @@
     </AD>
 	<AD name="LFNR">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNR.pdf" dpi="250" page="1" rot="0" x1="178" y1="500" x2="1397" y2="1596" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNR.pdf" dpi="250" page="1" rot="0" x1="178" y1="500" x2="1397" y2="1596" />
 			<Points>
 				<Point x="60" y="286" lat="43.54648915233572" lon="5.1486581989509075" com="" />
 				<Point x="1172" y="187" lat="43.54960146208492" lon="5.201825784600359" com="" />
@@ -1185,7 +1185,7 @@
 			</Points>
 		</Carte>
 		<Carte type="GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNR.pdf" dpi="250" page="2" rot="0" x1="49" y1="161" x2="1269" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNR.pdf" dpi="250" page="2" rot="0" x1="49" y1="161" x2="1269" y2="1947" />
 			<Points>
 				<Point x="213" y="564" lat="43.53638993543061" lon="5.1729231090276855" com="" />
 				<Point x="421" y="271" lat="43.53950096803051" lon="5.1759845704475795" com="" />
@@ -1196,7 +1196,7 @@
     </AD>
 	<AD name="LFQM">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFQM.pdf" dpi="250" page="1" rot="0" x1="178" y1="398" x2="1398" y2="1380" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFQM.pdf" dpi="250" page="1" rot="0" x1="178" y1="398" x2="1398" y2="1380" />
 			<Points>
 				<Point x="114" y="194" lat="47.216712985408" lon="6.06601761766677" com="" />
 				<Point x="1130" y="115" lat="47.21896006730101" lon="6.11249074355558" com="" />
@@ -1205,7 +1205,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFQM.pdf" dpi="250" page="1" rot="-37" x1="178" y1="1385" x2="1398" y2="1679" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFQM.pdf" dpi="250" page="1" rot="-37" x1="178" y1="1385" x2="1398" y2="1679" />
 			<Points>
 				<Point x="173" y="670" lat="47.204284701368394" lon="6.072518593074654" com="" />
 				<Point x="468" y="507" lat="47.2069049826492" lon="6.079750137598196" com="" />
@@ -1216,7 +1216,7 @@
     </AD>
 	<AD name="LFSA">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSA.pdf" dpi="250" page="1" rot="0" x1="179" y1="408" x2="1398" y2="1625" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSA.pdf" dpi="250" page="1" rot="0" x1="179" y1="408" x2="1398" y2="1625" />
 			<Points>
 				<Point x="221" y="80" lat="47.28555537803522" lon="6.06969419566989" com="" />
 				<Point x="906" y="249" lat="47.28168814185586" lon="6.092924748923855" com="" />
@@ -1227,7 +1227,7 @@
     </AD>
 	<AD name="LFPF">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPF.pdf" dpi="250" page="1" rot="0" x1="179" y1="389" x2="1398" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPF.pdf" dpi="250" page="1" rot="0" x1="179" y1="389" x2="1398" y2="1947" />
 			<Points>
 				<Point x="252" y="67" lat="48.91077356781365" lon="1.854068400547647" com="" />
 				<Point x="761" y="325" lat="48.886375066598866" lon="1.9232334525886587" com="" />
@@ -1236,7 +1236,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPF.pdf" dpi="250" page="2" rot="0" x1="51" y1="160" x2="1270" y2="1525" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPF.pdf" dpi="250" page="2" rot="0" x1="51" y1="160" x2="1270" y2="1525" />
 			<Points>
 				<Point x="40" y="331" lat="48.85063044168066" lon="1.8855603183044998" com="" />
 				<Point x="943" y="379" lat="48.84955440814632" lon="1.9169233708917484" com="" />
@@ -1247,7 +1247,7 @@
     </AD>
 	<AD name="LFMU">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMU.pdf" dpi="250" page="1" rot="0" x1="179" y1="409" x2="1397" y2="1942" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMU.pdf" dpi="250" page="1" rot="0" x1="179" y1="409" x2="1397" y2="1942" />
 			<Points>
 				<Point x="256" y="181" lat="43.46426153879239" lon="3.268056079319047" com="" />
 				<Point x="1212" y="270" lat="43.44219908047487" lon="3.5720104813132947" com="" />
@@ -1256,7 +1256,7 @@
 			</Points>
 		</Carte> 
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMU.pdf" dpi="250" page="2" rot="0" x1="51" y1="160" x2="1271" y2="1518" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMU.pdf" dpi="250" page="2" rot="0" x1="51" y1="160" x2="1271" y2="1518" />
 			<Points>
 				<Point x="272" y="459" lat="43.32824292441068" lon="3.3432652082387606" com="" />
 				<Point x="1026" y="701" lat="43.322677977351" lon="3.3669875108007408" com="" />
@@ -1265,7 +1265,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMU.pdf" dpi="250" page="3" rot="95" x1="177" y1="160" x2="1397" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMU.pdf" dpi="250" page="3" rot="95" x1="177" y1="160" x2="1397" y2="1947" />
 			<Points>
 				<Point x="108" y="547" lat="43.321755558770754" lon="3.3515126861467093" com="" />
 				<Point x="1717" y="801" lat="43.32108663728976" lon="3.3575969334557394" com="" />
@@ -1276,7 +1276,7 @@
     </AD>
 	<AD name="LFBZ">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBZ.pdf" dpi="250" page="1" rot="0" x1="182" y1="449" x2="1401" y2="1940" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBZ.pdf" dpi="250" page="1" rot="0" x1="182" y1="449" x2="1401" y2="1940" />
 			<Points>
 				<Point x="874" y="41" lat="43.74757222760346" lon="-1.332614079082265" com="" />
 				<Point x="1103" y="228" lat="43.6875040350876" lon="-1.229385103564987" com="" />
@@ -1285,7 +1285,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBZ.pdf" dpi="250" page="2" rot="0" x1="51" y1="144" x2="1271" y2="1510" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBZ.pdf" dpi="250" page="2" rot="0" x1="51" y1="144" x2="1271" y2="1510" />
 			<Points>
 				<Point x="158" y="244" lat="43.48094173691495" lon="-1.5409470097336266" com="" />
 				<Point x="1117" y="163" lat="43.48336544217428" lon="-1.5023250090683782" com="" />
@@ -1294,7 +1294,7 @@
 			</Points>
 		</Carte>
 		<Carte type="GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBZ.pdf" dpi="250" page="5" rot="-60" x1="200" y1="161" x2="1419" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBZ.pdf" dpi="250" page="5" rot="-60" x1="200" y1="161" x2="1419" y2="1947" />
 			<Points>
 				<Point x="378" y="677" lat="43.47061436053789" lon="-1.5356271209246741" com="" />
 				<Point x="785" y="599" lat="43.47167222288284" lon="-1.5286287767190134" com="" />
@@ -1303,7 +1303,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" page="1" com="ALL AREAS">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBZ.pdf" dpi="250" page="3" rot="0" x1="177" y1="160" x2="1479" y2="1251" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBZ.pdf" dpi="250" page="3" rot="0" x1="177" y1="160" x2="1479" y2="1251" />
 			<Points>
 				<Point x="134" y="766" lat="43.47061436053789" lon="-1.5356271209246741" com="" />
 				<Point x="541" y="581" lat="43.47154481474168" lon="-1.5323466405904844" com="" />
@@ -1312,7 +1312,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" page="2" com="AREA ALPHA">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBZ.pdf" dpi="250" page="3" rot="0" x1="178" y1="1255" x2="1479" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBZ.pdf" dpi="250" page="3" rot="0" x1="178" y1="1255" x2="1479" y2="1947" />
 			<Points>
 				<Point x="43" y="116" lat="43.470661277681195" lon="-1.535821304390981" com="" />
 				<Point x="1072" y="151" lat="43.470634077336676" lon="-1.5328518719751851" com="" />
@@ -1321,7 +1321,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" page="3" com="AREA KILO">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBZ.pdf" dpi="250" page="3" rot="-60" x1="1542" y1="262" x2="2774" y2="1830" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBZ.pdf" dpi="250" page="3" rot="-60" x1="1542" y1="262" x2="2774" y2="1830" />
 			<Points>
 				<Point x="529" y="593" lat="43.46613160000598" lon="-1.5327813031902255" com="" />
 				<Point x="1588" y="596" lat="43.46615057198446" lon="-1.5307047522243704" com="" />
@@ -1332,7 +1332,7 @@
     </AD>
 	<AD name="LFHB">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHB.pdf" dpi="250" page="1" rot="0" x1="177" y1="341" x2="1396" y2="1726" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHB.pdf" dpi="250" page="1" rot="0" x1="177" y1="341" x2="1396" y2="1726" />
 			<Points>
 				<Point x="467" y="94" lat="44.393522530182565" lon="-1.164861337245472" com="" />
 				<Point x="1177" y="546" lat="44.35931012425872" lon="-1.0897234419879822" com="" />
@@ -1343,7 +1343,7 @@
     </AD>
 	<AD name="LFBS">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBS.pdf" dpi="250" page="1" rot="0" x1="176" y1="387" x2="1395" y2="1950" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBS.pdf" dpi="250" page="1" rot="0" x1="176" y1="387" x2="1395" y2="1950" />
 			<Points>
 				<Point x="38" y="135" lat="44.443057474564114" lon="-1.2476983233457193" com="" />
 				<Point x="903" y="113" lat="44.44914766096849" lon="-0.9710179613900063" com="" />
@@ -1352,7 +1352,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBS.pdf" dpi="250" page="2" rot="0" x1="55" y1="158" x2="1274" y2="1154" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBS.pdf" dpi="250" page="2" rot="0" x1="55" y1="158" x2="1274" y2="1154" />
 			<Points>
 				<Point x="55" y="46" lat="44.383590358980264" lon="-1.165809300682201" com="" />
 				<Point x="1177" y="540" lat="44.35931060433079" lon="-1.0897476166438518" com="" />
@@ -1361,7 +1361,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBS.pdf" dpi="250" page="2" rot="0" x1="55" y1="1159" x2="1274" y2="1945" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBS.pdf" dpi="250" page="2" rot="0" x1="55" y1="1159" x2="1274" y2="1945" />
 			<Points>
 				<Point x="333" y="346" lat="44.36776416791076" lon="-1.1420382435154375" com="" />
 				<Point x="644" y="255" lat="44.36986959672618" lon="-1.1323312525156095" com="" />
@@ -1373,7 +1373,7 @@
     </AD>
 	<AD name="LFOQ">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOQ.pdf" dpi="250" page="1" rot="0" x1="179" y1="427" x2="1298" y2="1646" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOQ.pdf" dpi="250" page="1" rot="0" x1="179" y1="427" x2="1298" y2="1646" />
 			<Points>
 				<Point x="306" y="117" lat="47.68775042547016" lon="1.1974120170528515" com="" />
 				<Point x="1058" y="33" lat="47.68984297491873" lon="1.2230361152237732" com="" />
@@ -1384,7 +1384,7 @@
     </AD>
 	<AD name="LFCS">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCS.pdf" dpi="250" page="1" rot="0" x1="178" y1="383" x2="1396" y2="1381" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCS.pdf" dpi="250" page="1" rot="0" x1="178" y1="383" x2="1396" y2="1381" />
 			<Points>
 				<Point x="40" y="5" lat="44.75618858707538" lon="-0.6860676752541082" com="" />
 				<Point x="938" y="33" lat="44.751886788692396" lon="-0.5423245624032877" com="" />
@@ -1393,7 +1393,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCS.pdf" dpi="250" page="1" rot="-57" x1="178" y1="1387" x2="1396" y2="1946" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCS.pdf" dpi="250" page="1" rot="-57" x1="178" y1="1387" x2="1396" y2="1946" />
 			<Points>
 				<Point x="362" y="668" lat="44.69783443560696" lon="-0.6013359811322174" com="" />
 				<Point x="569" y="372" lat="44.70291184091362" lon="-0.5966102577501277" com="" />
@@ -1404,7 +1404,7 @@
     </AD>
 	<AD name="LFBD">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBD.pdf" dpi="250" page="1" rot="0" x1="176" y1="426" x2="1395" y2="1955" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBD.pdf" dpi="250" page="1" rot="0" x1="176" y1="426" x2="1395" y2="1955" />
 			<Points>
 				<Point x="16" y="137" lat="45.04089958547488" lon="-0.9398614741580867" com="" />
 				<Point x="1114" y="224" lat="45.0131036373331" lon="-0.42976848377664617" com="" />
@@ -1413,7 +1413,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBD.pdf" dpi="250" page="2" rot="0" x1="53" y1="144" x2="1272" y2="1480" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBD.pdf" dpi="250" page="2" rot="0" x1="53" y1="144" x2="1272" y2="1480" />
 			<Points>
 				<Point x="382" y="142" lat="44.84578366398961" lon="-0.7252994485895617" com="" />
 				<Point x="1059" y="102" lat="44.84722018070579" lon="-0.6922478840124231" com="" />
@@ -1422,7 +1422,7 @@
 			</Points>
 		</Carte>
 		<Carte type="GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBD.pdf" dpi="250" page="3" rot="46" x1="176" y1="160" x2="1395" y2="1946" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBD.pdf" dpi="250" page="3" rot="46" x1="176" y1="160" x2="1395" y2="1946" />
 			<Points>
 				<Point x="464" y="885" lat="44.83157389927671" lon="-0.7292358011133785" com="" />
 				<Point x="1548" y="513" lat="44.83870126531083" lon="-0.7009962714115482" com="" />
@@ -1431,7 +1431,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBD.pdf" dpi="250" page="4" rot="-2" x1="51" y1="160" x2="1270" y2="1948" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBD.pdf" dpi="250" page="4" rot="-2" x1="51" y1="160" x2="1270" y2="1948" />
 			<Points>
 				<Point x="283" y="825" lat="44.8368075212321" lon="-0.6996153806657405" com="" />
 				<Point x="541" y="574" lat="44.83778640358763" lon="-0.6982045236155827" com="" />
@@ -1442,7 +1442,7 @@
     </AD>
 	<AD name="LFDY">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFDY.pdf" dpi="250" page="1" rot="0" x1="178" y1="421" x2="1397" y2="1640" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFDY.pdf" dpi="250" page="1" rot="0" x1="178" y1="421" x2="1397" y2="1640" />
 			<Points>
 				<Point x="130" y="187" lat="44.88567169512028" lon="-0.4966950232933714" com="" />
 				<Point x="1162" y="122" lat="44.887271108454236" lon="-0.46321073804119933" com="" />
@@ -1453,7 +1453,7 @@
     </AD>
 	<AD name="LFHS">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHS.pdf" dpi="250" page="1" rot="0" x1="178" y1="382" x2="1397" y2="1601" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHS.pdf" dpi="250" page="1" rot="0" x1="178" y1="382" x2="1397" y2="1601" />
 			<Points>
 				<Point x="81" y="210" lat="46.21163597414441" lon="5.27210114136545" com="" />
 				<Point x="1043" y="194" lat="46.21211570133862" lon="5.325336897182526" com="" />
@@ -1464,7 +1464,7 @@
     </AD>
 	<AD name="LFLD">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLD.pdf" dpi="250" page="1" rot="0" x1="177" y1="387" x2="1397" y2="1329" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLD.pdf" dpi="250" page="1" rot="0" x1="177" y1="387" x2="1397" y2="1329" />
 			<Points>
 				<Point x="418" y="58" lat="47.08186719345065" lon="2.354026840207788" com="" />
 				<Point x="1073" y="94" lat="47.07932723198614" lon="2.4199940992703572" com="" />
@@ -1473,7 +1473,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="North Arrow error">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLD.pdf" dpi="250" page="1" rot="-31" x1="177" y1="1334" x2="1397" y2="1706" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLD.pdf" dpi="250" page="1" rot="-31" x1="177" y1="1334" x2="1397" y2="1706" />
 			<Points>
 				<Point x="332" y="741" lat="47.05656684250852" lon="2.359888870192812" com="" />
 				<Point x="627" y="468" lat="47.062423523816115" lon="2.3688447976546985" com="" />
@@ -1489,7 +1489,7 @@
     </AD>
 	<AD name="LFRB">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRB.pdf" dpi="250" page="1" rot="0" x1="177" y1="441" x2="1395" y2="1943" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRB.pdf" dpi="250" page="1" rot="0" x1="177" y1="441" x2="1395" y2="1943" />
 			<Points>
 				<Point x="69" y="382" lat="48.53708598454619" lon="-4.664082913055786" com="" />
 				<Point x="890" y="254" lat="48.57202116063367" lon="-4.323663893134703" com="" />
@@ -1498,7 +1498,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRB.pdf" dpi="250" page="2" rot="0" x1="51" y1="160" x2="1270" y2="1516" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRB.pdf" dpi="250" page="2" rot="0" x1="51" y1="160" x2="1270" y2="1516" />
 			<Points>
 				<Point x="52" y="319" lat="48.45569605700784" lon="-4.442538683455504" com="" />
 				<Point x="1044" y="163" lat="48.46018082108561" lon="-4.3995154023959895" com="" />
@@ -1507,7 +1507,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRB.pdf" dpi="250" page="3" rot="-19" x1="178" y1="161" x2="1397" y2="1948" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRB.pdf" dpi="250" page="3" rot="-19" x1="178" y1="161" x2="1397" y2="1948" />
 			<Points>
 				<Point x="603" y="1660" lat="48.44598385061256" lon="-4.418037849461358" com="" />
 				<Point x="1364" y="1393" lat="48.446758528326775" lon="-4.414697743409711" com="" />
@@ -1518,7 +1518,7 @@
     </AD>
 	<AD name="LFEI">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEI.pdf" dpi="250" page="1" rot="0" x1="176" y1="405" x2="1395" y2="1623" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEI.pdf" dpi="250" page="1" rot="0" x1="176" y1="405" x2="1395" y2="1623" />
 			<Points>
 				<Point x="329" y="86" lat="47.626343732913334" lon="2.771727746714107" com="" />
 				<Point x="1175" y="331" lat="47.62055694122147" lon="2.80019325040669" com="" />
@@ -1529,7 +1529,7 @@
     </AD>
 	<AD name="LFFN">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFN.pdf" dpi="250" page="1" rot="0" x1="179" y1="394" x2="1398" y2="1613" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFN.pdf" dpi="250" page="1" rot="0" x1="179" y1="394" x2="1398" y2="1613" />
 			<Points>
 				<Point x="54" y="78" lat="48.44636111302492" lon="4.456059552913636" com="" />
 				<Point x="962" y="283" lat="48.43990834066446" lon="4.49811710293042" com="" />
@@ -1540,7 +1540,7 @@
     </AD>
 	<AD name="LFHR">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHR.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFHR.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
 			<Points>
 				<Point x="584" y="22" lat="45.33435581817587" lon="3.360547010674838" com="" />
 				<Point x="1153" y="464" lat="45.32414734797294" lon="3.378949212549189" com="" />
@@ -1551,7 +1551,7 @@
     </AD>
 	<AD name="LFSL">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSL.pdf" dpi="250" page="1" rot="0" x1="179" y1="389" x2="1398" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSL.pdf" dpi="250" page="1" rot="0" x1="179" y1="389" x2="1398" y2="1947" />
 			<Points>
 				<Point x="271" y="207" lat="45.154474458299866" lon="1.3623164387467677" com="" />
 				<Point x="950" y="70" lat="45.18809532190705" lon="1.5818311298254513" com="" />
@@ -1560,7 +1560,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSL.pdf" dpi="250" page="2" rot="0" x1="51" y1="158" x2="1273" y2="1638" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSL.pdf" dpi="250" page="2" rot="0" x1="51" y1="158" x2="1273" y2="1638" />
 			<Points>
 				<Point x="201" y="335" lat="45.052417237608985" lon="1.4684648646253908" com="" />
 				<Point x="1081" y="427" lat="45.04984825157237" lon="1.5027348211437503" com="" />
@@ -1569,7 +1569,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="PKG AG">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSL.pdf" dpi="250" page="3" rot="24" x1="177" y1="174" x2="1397" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSL.pdf" dpi="250" page="3" rot="24" x1="177" y1="174" x2="1397" y2="1947" />
 			<Points>
 				<Point x="959" y="432" lat="45.04188860859018" lon="1.486842036097056" com="" />
 				<Point x="1699" y="706" lat="45.04155473309592" lon="1.4880965485951878" com="" />
@@ -1578,7 +1578,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="2" com="PKG AC">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSL.pdf" dpi="250" page="4" rot="24" x1="51" y1="174" x2="1271" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFSL.pdf" dpi="250" page="4" rot="24" x1="51" y1="174" x2="1271" y2="1947" />
 			<Points>
 				<Point x="839" y="262" lat="45.041145917991926" lon="1.4889116622125842" com="" />
 				<Point x="1453" y="535" lat="45.040507273821355" lon="1.4908877668225198" com="" />
@@ -1589,7 +1589,7 @@
     </AD>
 	<AD name="LFFB">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFB.pdf" dpi="250" page="1" rot="0" x1="178" y1="421" x2="1396" y2="1638" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFB.pdf" dpi="250" page="1" rot="0" x1="178" y1="421" x2="1396" y2="1638" />
 			<Points>
 				<Point x="709" y="49" lat="48.36332706022672" lon="2.4278474171667095" com="" />
 				<Point x="1155" y="595" lat="48.350744334581165" lon="2.4431128531913733" com="" />
@@ -1600,7 +1600,7 @@
     </AD>
 	<AD name="LFRK">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRK.pdf" dpi="250" page="1" rot="0" x1="180" y1="389" x2="1401" y2="1940" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRK.pdf" dpi="250" page="1" rot="0" x1="180" y1="389" x2="1401" y2="1940" />
 			<Points>
 				<Point x="75" y="457" lat="49.319865386359695" lon="-0.8559746113488091" com="" />
 				<Point x="1179" y="879" lat="49.16812734106406" lon="-0.24440682135582392" com="" />
@@ -1609,7 +1609,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRK.pdf" dpi="250" page="2" rot="0" x1="51" y1="160" x2="1270" y2="1516" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRK.pdf" dpi="250" page="2" rot="0" x1="51" y1="160" x2="1270" y2="1516" />
 			<Points>
 				<Point x="183" y="405" lat="49.18285498265122" lon="-0.46724261312154364" com="" />
 				<Point x="926" y="105" lat="49.18972510209688" lon="-0.4412903414718782" com="" />
@@ -1620,7 +1620,7 @@
     </AD>
 	<AD name="LFCC">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCC.pdf" dpi="250" page="1" rot="0" x1="178" y1="369" x2="1396" y2="1589" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCC.pdf" dpi="250" page="1" rot="0" x1="178" y1="369" x2="1396" y2="1589" />
 			<Points>
 				<Point x="216" y="35" lat="44.36597659968725" lon="1.4649710829330191" com="" />
 				<Point x="1200" y="113" lat="44.3643324728185" lon="1.4964433960580161" com="" />
@@ -1631,7 +1631,7 @@
     </AD>
 	<AD name="LFAC">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAC.pdf" dpi="250" page="1" rot="0" x1="176" y1="422" x2="1392" y2="1950" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAC.pdf" dpi="250" page="1" rot="0" x1="176" y1="422" x2="1392" y2="1950" />
 			<Points>
 				<Point x="220" y="675" lat="50.914725169538855" lon="1.786923453198881" com="" />
 				<Point x="1171" y="473" lat="50.97250824929769" lon="2.2219072833750366" com="" />
@@ -1640,7 +1640,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAC.pdf" dpi="250" page="2" rot="0" x1="56" y1="159" x2="1277" y2="1525" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAC.pdf" dpi="250" page="2" rot="0" x1="56" y1="159" x2="1277" y2="1525" />
 			<Points>
 				<Point x="169" y="411" lat="50.96789894766044" lon="1.938083843220906" com="" />
 				<Point x="835" y="250" lat="50.97160278695806" lon="1.9624505050211931" com="" />
@@ -1651,7 +1651,7 @@
     </AD>
 	<AD name="LFKC">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKC.pdf" dpi="250" page="1" rot="0" x1="181" y1="427" x2="1398" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKC.pdf" dpi="250" page="1" rot="0" x1="181" y1="427" x2="1398" y2="1947" />
 			<Points>
 				<Point x="589" y="578" lat="42.56445513929819" lon="8.755813099775153" com="" />
 				<Point x="1116" y="260" lat="42.63708688028894" lon="8.92073975090232" com="" />
@@ -1660,7 +1660,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKC.pdf" dpi="250" page="2" rot="0" x1="51" y1="168" x2="1270" y2="1534" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKC.pdf" dpi="250" page="2" rot="0" x1="51" y1="168" x2="1270" y2="1534" />
 			<Points>
 				<Point x="435" y="74" lat="42.54463915304172" lon="8.787658766498028" com="" />
 				<Point x="802" y="227" lat="42.54099231161593" lon="8.799149626495318" com="" />
@@ -1669,7 +1669,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKC.pdf" dpi="250" page="3" rot="0" x1="177" y1="160" x2="1397" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFKC.pdf" dpi="250" page="3" rot="0" x1="177" y1="160" x2="1397" y2="1947" />
 			<Points>
 				<Point x="361" y="605" lat="42.52644882060891" lon="8.790442947419493" com="" />
 				<Point x="575" y="605" lat="42.52644662274826" lon="8.791802039733923" com="" />
@@ -1680,7 +1680,7 @@
     </AD>
 	<AD name="LFYG">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFYG.pdf" dpi="250" page="1" rot="0" x1="176" y1="391" x2="1395" y2="1595" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFYG.pdf" dpi="250" page="1" rot="0" x1="176" y1="391" x2="1395" y2="1595" />
 			<Points>
 				<Point x="93" y="376" lat="50.14034870699625" lon="3.2458339578612065" com="" />
 				<Point x="1145" y="169" lat="50.14517067399288" lon="3.2834151604309794" com="" />
@@ -1691,7 +1691,7 @@
     </AD>
 	<AD name="LFMD">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMD.pdf" dpi="250" page="1" rot="0" x1="178" y1="397" x2="1397" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMD.pdf" dpi="250" page="1" rot="0" x1="178" y1="397" x2="1397" y2="1947" />
 			<Points>
 				<Point x="349" y="28" lat="43.7180169416705" lon="6.860468534402409" com="" />
 				<Point x="1216" y="384" lat="43.63772506895588" lon="7.13461611911438" com="" />
@@ -1700,7 +1700,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMD.pdf" dpi="250" page="2" rot="0" x1="54" y1="160" x2="1273" y2="1591" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMD.pdf" dpi="250" page="2" rot="0" x1="54" y1="160" x2="1273" y2="1591" />
 			<Points>
 				<Point x="59" y="41" lat="43.61917821765264" lon="6.922220337603193" com="" />
 				<Point x="985" y="192" lat="43.608610536009145" lon="7.009819603062786" com="" />
@@ -1709,7 +1709,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMD.pdf" dpi="250" page="2" rot="-90" x1="54" y1="1596" x2="1273" y2="1949" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMD.pdf" dpi="250" page="2" rot="-90" x1="54" y1="1596" x2="1273" y2="1949" />
 			<Points>
 				<Point x="63" y="307" lat="43.554396898169045" lon="6.949735610021465" com="" />
 				<Point x="180" y="215" lat="43.5576999795632" lon="6.954809835895938" com="" />
@@ -1718,7 +1718,7 @@
 			</Points>
 		</Carte>
 		<Carte type="GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMD.pdf" dpi="250" page="3" rot="0" x1="179" y1="161" x2="1399" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMD.pdf" dpi="250" page="3" rot="0" x1="179" y1="161" x2="1399" y2="1947" />
 			<Points>
 				<Point x="61" y="177" lat="43.55440124983626" lon="6.949443890684092" com="" />
 				<Point x="904" y="742" lat="43.54925472135009" lon="6.960047936353804" com="" />
@@ -1727,7 +1727,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMD.pdf" dpi="250" page="4" rot="0" x1="51" y1="160" x2="1271" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMD.pdf" dpi="250" page="4" rot="0" x1="51" y1="160" x2="1271" y2="1947" />
 			<Points>
 				<Point x="46" y="258" lat="43.54865148813887" lon="6.952776491477574" com="" />
 				<Point x="1006" y="155" lat="43.54925273244756" lon="6.9600492239603104" com="" />
@@ -1738,7 +1738,7 @@
     </AD>
 	<AD name="LFMK">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMK.pdf" dpi="250" page="1" rot="0" x1="178" y1="394" x2="1397" y2="1944" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMK.pdf" dpi="250" page="1" rot="0" x1="178" y1="394" x2="1397" y2="1944" />
 			<Points>
 				<Point x="300" y="128" lat="43.36062949091903" lon="2.1653320109206007" com="" />
 				<Point x="1197" y="640" lat="43.20369500076356" lon="2.5383653563550848" com="" />
@@ -1747,7 +1747,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMK.pdf" dpi="250" page="2" rot="0" x1="53" y1="161" x2="1272" y2="1508" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMK.pdf" dpi="250" page="2" rot="0" x1="53" y1="161" x2="1272" y2="1508" />
 			<Points>
 				<Point x="250" y="361" lat="43.2233199879133" lon="2.295672204255575" com="" />
 				<Point x="1187" y="375" lat="43.22308881041341" lon="2.3248766424780403" com="" />
@@ -1758,7 +1758,7 @@
     </AD>
 	<AD name="LFNH">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNH.pdf" dpi="250" page="1" rot="0" x1="179" y1="385" x2="1397" y2="1408" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNH.pdf" dpi="250" page="1" rot="0" x1="179" y1="385" x2="1397" y2="1408" />
 			<Points>
 				<Point x="49" y="28" lat="44.05770794288157" lon="5.037728789164193" com="" />
 				<Point x="1137" y="165" lat="44.04974978716146" lon="5.124516505810745" com="" />
@@ -1767,7 +1767,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNH.pdf" dpi="250" page="1" rot="42" x1="179" y1="1413" x2="1397" y2="1649" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNH.pdf" dpi="250" page="1" rot="42" x1="179" y1="1413" x2="1397" y2="1649" />
 			<Points>
 				<Point x="322" y="277" lat="44.031670227733514" lon="5.078352764874753" com="" />
 				<Point x="687" y="575" lat="44.02485697392399" lon="5.089912824470584" com="" />
@@ -1776,7 +1776,7 @@
 			</Points>
 		</Carte>
 		<Carte type="GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNH.pdf" dpi="250" page="2" rot="0" x1="50" y1="161" x2="1270" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFNH.pdf" dpi="250" page="2" rot="0" x1="50" y1="161" x2="1270" y2="1947" />
 			<Points>
 				<Point x="75" y="323" lat="44.031670227733514" lon="5.078352764874753" com="" />
 				<Point x="959" y="1047" lat="44.02485697392399" lon="5.089912824470584" com="" />
@@ -1787,7 +1787,7 @@
     </AD>
 	<AD name="LFIG">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFIG.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFIG.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
 			<Points>
 				<Point x="34" y="222" lat="44.18690397346203" lon="2.4958616651423644" com="" />
 				<Point x="1128" y="253" lat="44.18621959931559" lon="2.530731081909814" com="" />
@@ -1798,7 +1798,7 @@
     </AD>
 	<AD name="LFDQ">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFDQ.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFDQ.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
 			<Points>
 				<Point x="458" y="28" lat="43.29369187124871" lon="0.5162046334327716" com="" />
 				<Point x="955" y="764" lat="43.27685732683354" lon="0.5319229828519139" com="" />
@@ -1809,7 +1809,7 @@
     </AD>
 	<AD name="LFMW">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMW.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMW.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1623" />
 			<Points>
 				<Point x="356" y="181" lat="43.32093865870278" lon="1.9138605300977367" com="" />
 				<Point x="1001" y="22" lat="43.32457318335866" lon="1.9343175665385655" com="" />
@@ -1820,7 +1820,7 @@
     </AD>
 	<AD name="LFCX">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCX.pdf" dpi="250" page="1" rot="0" x1="178" y1="394" x2="1397" y2="1614" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCX.pdf" dpi="250" page="1" rot="0" x1="178" y1="394" x2="1397" y2="1614" />
 			<Points>
 				<Point x="159" y="139" lat="44.09955745977445" lon="1.1129340935829544" com="" />
 				<Point x="916" y="293" lat="44.096217931763654" lon="1.1371531554799137" com="" />
@@ -1831,7 +1831,7 @@
     </AD>
 	<AD name="LFCK">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCK.pdf" dpi="250" page="1" rot="0" x1="176" y1="392" x2="1397" y2="1679" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCK.pdf" dpi="250" page="1" rot="0" x1="176" y1="392" x2="1397" y2="1679" />
 			<Points>
 				<Point x="202" y="80" lat="43.60211608952283" lon="2.2424345818054254" com="" />
 				<Point x="1122" y="149" lat="43.59831484028674" lon="2.3153309764248227" com="" />
@@ -1842,7 +1842,7 @@
     </AD>
 	<AD name="LFJH">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJH.pdf" dpi="250" page="1" rot="0" x1="176" y1="400" x2="1397" y2="1595" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJH.pdf" dpi="250" page="1" rot="0" x1="176" y1="400" x2="1397" y2="1595" />
 			<Points>
 				<Point x="164" y="27" lat="43.22426421254775" lon="1.0148209706766058" com="" />
 				<Point x="997" y="27" lat="43.22390685015296" lon="1.063781607273323" com="" />
@@ -1853,7 +1853,7 @@
     </AD>
 	<AD name="LFIH">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFIH.pdf" dpi="250" page="1" rot="0" x1="179" y1="408" x2="1398" y2="1625" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFIH.pdf" dpi="250" page="1" rot="0" x1="179" y1="408" x2="1398" y2="1625" />
 			<Points>
 				<Point x="157" y="214" lat="45.278897667265916" lon="0.0039432319677861335" com="" />
 				<Point x="1128" y="110" lat="45.281291947893386" lon="0.035459549215440686" com="" />
@@ -1864,7 +1864,7 @@
     </AD>
 	<AD name="LFLH">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLH.pdf" dpi="250" page="1" rot="0" x1="179" y1="399" x2="1399" y2="1564" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLH.pdf" dpi="250" page="1" rot="0" x1="179" y1="399" x2="1399" y2="1564" />
 			<Points>
 				<Point x="111" y="304" lat="46.856412357722554" lon="4.771509930565211" com="" />
 				<Point x="1061" y="395" lat="46.85109940869859" lon="4.8508735802152785" com="" />
@@ -1873,7 +1873,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="North Arrow error">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLH.pdf" dpi="250" page="1" rot="85" x1="176" y1="1570" x2="1399" y2="1949" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLH.pdf" dpi="250" page="1" rot="85" x1="176" y1="1570" x2="1399" y2="1949" />
 			<Points>
 				<Point x="78" y="334" lat="46.832559023247" lon="4.81602669885744" com="" />
 				<Point x="212" y="237" lat="46.83551287763569" lon="4.820263149007459" com="" />
@@ -1888,7 +1888,7 @@
     </AD>
 	<AD name="LFQK">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFQK.pdf" dpi="250" page="1" rot="0" x1="177" y1="421" x2="1395" y2="1640" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFQK.pdf" dpi="250" page="1" rot="0" x1="177" y1="421" x2="1395" y2="1640" />
 			<Points>
 				<Point x="96" y="575" lat="48.90404927198576" lon="4.335995842196958" com="" />
 				<Point x="722" y="60" lat="48.91582403325428" lon="4.35778749605916" com="" />
@@ -1899,7 +1899,7 @@
     </AD>
 	<AD name="LFOK">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOK.pdf" dpi="250" page="1" rot="0" x1="173" y1="394" x2="1394" y2="1949" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOK.pdf" dpi="250" page="1" rot="0" x1="173" y1="394" x2="1394" y2="1949" />
 			<Points>
 				<Point x="172" y="86" lat="49.01965428131259" lon="3.9501277406740596" com="" />
 				<Point x="346" y="78" lat="49.02179540815266" lon="4.0370884045297055" com="" />
@@ -1911,7 +1911,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOK.pdf" dpi="250" page="2" rot="0" x1="53" y1="158" x2="1275" y2="1524" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOK.pdf" dpi="250" page="2" rot="0" x1="53" y1="158" x2="1275" y2="1524" />
 			<Points>
 				<Point x="166" y="196" lat="48.81053954316222" lon="4.147433119552797" com="" />
 				<Point x="1169" y="338" lat="48.80233035861877" lon="4.233344068129558" com="" />
@@ -1922,7 +1922,7 @@
     </AD>
 	<AD name="LFLB">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLB.pdf" dpi="250" page="1" rot="0" x1="178" y1="404" x2="1398" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLB.pdf" dpi="250" page="1" rot="0" x1="178" y1="404" x2="1398" y2="1947" />
 			<Points>
 				<Point x="93" y="244" lat="45.754450196705385" lon="5.707753211700049" com="" />
 				<Point x="861" y="33" lat="45.80497049888579" lon="5.97974626509122" com="" />
@@ -1931,7 +1931,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLB.pdf" dpi="250" page="2" rot="0" x1="55" y1="160" x2="1274" y2="1267" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLB.pdf" dpi="250" page="2" rot="0" x1="55" y1="160" x2="1274" y2="1267" />
 			<Points>
 				<Point x="212" y="24" lat="45.66318769614089" lon="5.85479767674278" com="" />
 				<Point x="1116" y="146" lat="45.65778622203692" lon="5.9142397972496745" com="" />
@@ -1940,7 +1940,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLB.pdf" dpi="250" page="2" rot="-93" x1="55" y1="1273" x2="1274" y2="1637" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLB.pdf" dpi="250" page="2" rot="-93" x1="55" y1="1273" x2="1274" y2="1637" />
 			<Points>
 				<Point x="28" y="207" lat="45.6481655890122" lon="5.873790846195187" com="" />
 				<Point x="249" y="298" lat="45.64621073008415" lon="5.881186474022144" com="" />
@@ -1949,7 +1949,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" page="1" com="PKG AC">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLB.pdf" dpi="250" page="3" rot="-92" x1="177" y1="160" x2="1397" y2="1053" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLB.pdf" dpi="250" page="3" rot="-92" x1="177" y1="160" x2="1397" y2="1053" />
 			<Points>
 				<Point x="506" y="185" lat="45.64342309674925" lon="5.881761173792657" com="" />
 				<Point x="676" y="179" lat="45.6434818483302" lon="5.883267537927122" com="" />
@@ -1958,7 +1958,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" page="2" com="PKG AG">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLB.pdf" dpi="250" page="3" rot="-92" x1="177" y1="1054" x2="1397" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLB.pdf" dpi="250" page="3" rot="-92" x1="177" y1="1054" x2="1397" y2="1947" />
 			<Points>
 				<Point x="397" y="378" lat="45.635565045396525" lon="5.882876858874628" com="" />
 				<Point x="723" y="299" lat="45.63575758519434" lon="5.883972565282618" com="" />
@@ -1969,7 +1969,7 @@
     </AD>
 	<AD name="LFLE">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLE.pdf" dpi="250" page="1" rot="0" x1="178" y1="389" x2="1397" y2="1363" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLE.pdf" dpi="250" page="1" rot="0" x1="178" y1="389" x2="1397" y2="1363" />
 			<Points>
 				<Point x="197" y="233" lat="45.5741763550016" lon="5.937075443397295" com="" />
 				<Point x="982" y="218" lat="45.57438040534267" lon="5.988547443758682" com="" />
@@ -1978,7 +1978,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLE.pdf" dpi="250" page="1" rot="53" x1="178" y1="1368" x2="1398" y2="1653" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLE.pdf" dpi="250" page="1" rot="53" x1="178" y1="1368" x2="1398" y2="1653" />
 			<Points>
 				<Point x="314" y="358" lat="45.56435308838672" lon="5.971937395225472" com="" />
 				<Point x="383" y="375" lat="45.564155942059536" lon="5.973547683526431" com="" />
@@ -1990,7 +1990,7 @@
     </AD>
 	<AD name="LFJY">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJY.pdf" dpi="250" page="1" rot="0" x1="177" y1="407" x2="1396" y2="1226" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJY.pdf" dpi="250" page="1" rot="0" x1="177" y1="407" x2="1396" y2="1226" />
 			<Points>
 				<Point x="80" y="108" lat="49.062958144025984" lon="5.79754629405643" com="" />
 				<Point x="1049" y="226" lat="49.052149320953404" lon="5.9301769289139" com="" />
@@ -1999,7 +1999,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJY.pdf" dpi="250" page="1" rot="-40" x1="177" y1="1231" x2="1396" y2="1719" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJY.pdf" dpi="250" page="1" rot="-40" x1="177" y1="1231" x2="1396" y2="1719" />
 			<Points>
 				<Point x="770" y="308" lat="49.03405173168123" lon="5.882321497996238" com="" />
 				<Point x="965" y="419" lat="49.03085914549176" lon="5.890902652087225" com="" />
@@ -2010,7 +2010,7 @@
     </AD>
 	<AD name="LFGX">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGX.pdf" dpi="250" page="1" rot="0" x1="178" y1="421" x2="1397" y2="1640" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGX.pdf" dpi="250" page="1" rot="0" x1="178" y1="421" x2="1397" y2="1640" />
 			<Points>
 				<Point x="74" y="165" lat="46.77365854163887" lon="5.801415151024896" com="" />
 				<Point x="693" y="2" lat="46.777486823805944" lon="5.822543932375416" com="" />
@@ -2021,7 +2021,7 @@
     </AD>
 	<AD name="LFQV">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFQV.pdf" dpi="250" page="1" rot="0" x1="178" y1="412" x2="1398" y2="1629" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFQV.pdf" dpi="250" page="1" rot="0" x1="178" y1="412" x2="1398" y2="1629" />
 			<Points>
 				<Point x="182" y="216" lat="49.79264970957079" lon="4.6341114736457785" com="" />
 				<Point x="1191" y="55" lat="49.79637535890104" lon="4.669706032598937" com="" />
@@ -2032,7 +2032,7 @@
     </AD>
 	<AD name="LFOR">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOR.pdf" dpi="250" page="1" rot="0" x1="179" y1="390" x2="1398" y2="1283" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOR.pdf" dpi="250" page="1" rot="0" x1="179" y1="390" x2="1398" y2="1283" />
 			<Points>
 				<Point x="132" y="4" lat="48.48756273562919" lon="1.4703953104013237" com="" />
 				<Point x="961" y="242" lat="48.47484810307299" lon="1.5370537759079808" com="" />
@@ -2041,7 +2041,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOR.pdf" dpi="250" page="1" rot="2.4" x1="179" y1="1288" x2="1398" y2="1672" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOR.pdf" dpi="250" page="1" rot="2.4" x1="179" y1="1288" x2="1398" y2="1672" />
 			<Points>
 				<Point x="263" y="209" lat="48.45824700077751" lon="1.5138470770965025" com="" />
 				<Point x="895" y="143" lat="48.45916890398111" lon="1.5282722158751851" com="" />
@@ -2052,7 +2052,7 @@
     </AD>
 	<AD name="LFMX">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMX.pdf" dpi="250" page="1" rot="0" x1="178" y1="421" x2="1396" y2="1940" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMX.pdf" dpi="250" page="1" rot="0" x1="178" y1="421" x2="1396" y2="1940" />
 			<Points>
 				<Point x="207" y="102" lat="44.11846359982399" lon="5.95079378469602" com="" />
 				<Point x="648" y="202" lat="44.10858421533562" lon="6.007711747959151" com="" />
@@ -2061,7 +2061,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMX.pdf" dpi="250" page="2" rot="0" x1="52" y1="163" x2="1271" y2="1595" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFMX.pdf" dpi="250" page="2" rot="0" x1="52" y1="163" x2="1271" y2="1595" />
 			<Points>
 				<Point x="412" y="61" lat="44.066722932738806" lon="5.988045092518589" com="" />
 				<Point x="1198" y="33" lat="44.06716846722691" lon="6.0015008624771475" com="" />
@@ -2074,7 +2074,7 @@
     </AD>
 	<AD name="LFFH">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFH.pdf" dpi="250" page="1" rot="0" x1="178" y1="387" x2="1397" y2="1718" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFH.pdf" dpi="250" page="1" rot="0" x1="178" y1="387" x2="1397" y2="1718" />
 			<Points>
 				<Point x="154" y="95" lat="49.08490502532148" lon="3.3401994322635256" com="" />
 				<Point x="1046" y="370" lat="49.07772951224794" lon="3.3761147911917107" com="" />
@@ -2085,7 +2085,7 @@
     </AD>
 	<AD name="LFTQ">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFTQ.pdf" dpi="250" page="1" rot="0" x1="179" y1="415" x2="1398" y2="1320" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFTQ.pdf" dpi="250" page="1" rot="0" x1="179" y1="415" x2="1398" y2="1320" />
 			<Points>
 				<Point x="255" y="62" lat="47.76325841160529" lon="-1.2113631026257834" com="" />
 				<Point x="1154" y="104" lat="47.76060718861347" lon="-1.1311404871670667" com="" />
@@ -2094,7 +2094,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFTQ.pdf" dpi="250" page="1" rot="15" x1="179" y1="1325" x2="1398" y2="1633" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFTQ.pdf" dpi="250" page="1" rot="15" x1="179" y1="1325" x2="1398" y2="1633" />
 			<Points>
 				<Point x="403" y="300" lat="47.740319567732456" lon="-1.1948881911409086" com="" />
 				<Point x="697" y="336" lat="47.73988678741555" lon="-1.1882284317531757" com="" />
@@ -2105,7 +2105,7 @@
     </AD>
 	<AD name="LFOC">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOC.pdf" dpi="250" page="1" rot="0" x1="182" y1="393" x2="1400" y2="1951" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOC.pdf" dpi="250" page="1" rot="0" x1="182" y1="393" x2="1400" y2="1951" />
 			<Points>
 				<Point x="194" y="221" lat="48.15789404960073" lon="1.249957706448805" com="" />
 				<Point x="967" y="395" lat="48.120051011133235" lon="1.5163459517438798" com="" />
@@ -2114,7 +2114,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOC.pdf" dpi="250" page="2" rot="0" x1="51" y1="160" x2="1270" y2="1526" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOC.pdf" dpi="250" page="2" rot="0" x1="51" y1="160" x2="1270" y2="1526" />
 			<Points>
 				<Point x="72" y="83" lat="48.070284033645635" lon="1.3583059801710948" com="" />
 				<Point x="1139" y="346" lat="48.064047052878315" lon="1.3949008822183226" com="" />
@@ -2125,7 +2125,7 @@
     </AD>
 	<AD name="LFFU">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFU.pdf" dpi="250" page="1" rot="0" x1="179" y1="412" x2="1397" y2="1633" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFFU.pdf" dpi="250" page="1" rot="0" x1="179" y1="412" x2="1397" y2="1633" />
 			<Points>
 				<Point x="178" y="416" lat="46.8758874658592" lon="2.3607571955736626" com="" />
 				<Point x="806" y="266" lat="46.879370851285856" lon="2.382017992525493" com="" />
@@ -2136,7 +2136,7 @@
     </AD>
 	<AD name="LFLX">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLX.pdf" dpi="250" page="1" rot="0" x1="178" y1="387" x2="1396" y2="1946" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLX.pdf" dpi="250" page="1" rot="0" x1="178" y1="387" x2="1396" y2="1946" />
 			<Points>
 				<Point x="320" y="25" lat="47.08101449639161" lon="1.5842776583848008" com="" />
 				<Point x="1198" y="461" lat="46.94018825936861" lon="1.996117080136253" com="" />
@@ -2145,7 +2145,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLX.pdf" dpi="250" page="2" rot="0" x1="51" y1="161" x2="1271" y2="1527" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLX.pdf" dpi="250" page="2" rot="0" x1="51" y1="161" x2="1271" y2="1527" />
 			<Points>
 				<Point x="229" y="4" lat="46.884084157994785" lon="1.7124680848097593" com="" />
 				<Point x="894" y="62" lat="46.88213495402057" lon="1.743270655852092" com="" />
@@ -2156,7 +2156,7 @@
     </AD>
 	<AD name="LFEJ">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEJ.pdf" dpi="250" page="1" rot="0" x1="176" y1="372" x2="1395" y2="1381" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEJ.pdf" dpi="250" page="1" rot="0" x1="176" y1="372" x2="1395" y2="1381" />
 			<Points>
 				<Point x="113" y="100" lat="46.87211308326336" lon="1.560021346474059" com="" />
 				<Point x="1114" y="103" lat="46.871080731265565" lon="1.6608807527682683" com="" />
@@ -2165,7 +2165,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEJ.pdf" dpi="250" page="1" rot="-49" x1="176" y1="1387" x2="1395" y2="1623" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFEJ.pdf" dpi="250" page="1" rot="-49" x1="176" y1="1387" x2="1395" y2="1623" />
 			<Points>
 				<Point x="615" y="288" lat="46.843581853663295" lon="1.6233877660840468" com="" />
 				<Point x="541" y="511" lat="46.84071850106523" lon="1.6220935808513315" com="" />
@@ -2176,7 +2176,7 @@
     </AD>
 	<AD name="LFCA">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCA.pdf" dpi="250" page="1" rot="0" x1="179" y1="385" x2="1398" y2="1427" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCA.pdf" dpi="250" page="1" rot="0" x1="179" y1="385" x2="1398" y2="1427" />
 			<Points>
 				<Point x="90" y="33" lat="46.81091769949668" lon="0.530291789687568" com="" />
 				<Point x="1172" y="102" lat="46.806659245120926" lon="0.6245362238774826" com="" />
@@ -2185,7 +2185,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCA.pdf" dpi="250" page="1" rot="87" x1="179" y1="1432" x2="1398" y2="1708" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFCA.pdf" dpi="250" page="1" rot="87" x1="179" y1="1432" x2="1398" y2="1708" />
 			<Points>
 				<Point x="183" y="309" lat="46.78625384587629" lon="0.5501617782247873" com="" />
 				<Point x="228" y="1019" lat="46.77906950620673" lon="0.5508854676973418" com="" />
@@ -2196,7 +2196,7 @@
     </AD>
 	<AD name="LFQH">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFQH.pdf" dpi="250" page="1" rot="0" x1="176" y1="404" x2="1395" y2="1621" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFQH.pdf" dpi="250" page="1" rot="0" x1="176" y1="404" x2="1395" y2="1621" />
 			<Points>
 				<Point x="197" y="52" lat="47.85581551668268" lon="4.568059963986783" com="" />
 				<Point x="999" y="45" lat="47.856058880849524" lon="4.595135255965586" com="" />
@@ -2207,7 +2207,7 @@
     </AD>
 	<AD name="LFJA">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJA.pdf" dpi="250" page="1" rot="0" x1="180" y1="407" x2="1396" y2="1740" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJA.pdf" dpi="250" page="1" rot="0" x1="180" y1="407" x2="1396" y2="1740" />
 			<Points>
 				<Point x="274" y="117" lat="48.09654099697679" lon="5.0376834065301574" com="" />
 				<Point x="836" y="119" lat="48.09658266901246" lon="5.060210061157116" com="" />
@@ -2218,7 +2218,7 @@
     </AD>
 	<AD name="LFDW">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFDW.pdf" dpi="250" page="1" rot="0" x1="178" y1="423" x2="1397" y2="1643" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFDW.pdf" dpi="250" page="1" rot="0" x1="178" y1="423" x2="1397" y2="1643" />
 			<Points>
 				<Point x="162" y="205" lat="46.59030006018315" lon="0.6285159280224334" com="" />
 				<Point x="1045" y="369" lat="46.58649906602074" lon="0.6578781961780071" com="" />
@@ -2229,7 +2229,7 @@
     </AD>
 	<AD name="LFPX">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPX.pdf" dpi="250" page="1" rot="0" x1="178" y1="443" x2="1398" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPX.pdf" dpi="250" page="1" rot="0" x1="178" y1="443" x2="1398" y2="1947" />
 			<Points>
 				<Point x="34" y="157" lat="48.89483" lon="1.92458" com="" />
 				<Point x="1105" y="109" lat="48.89933" lon="2.07380" com="" />
@@ -2238,7 +2238,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPX.pdf" dpi="250" page="2" rot="0" x1="60" y1="161" x2="1276" y2="1112" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPX.pdf" dpi="250" page="2" rot="0" x1="60" y1="161" x2="1276" y2="1112" />
 			<Points>
 				<Point x="165" y="35" lat="48.873697922426274" lon="1.9528259132130679" com="" />
 				<Point x="1211" y="152" lat="48.866754515543235" lon="2.0345378924816653" com="" />
@@ -2250,7 +2250,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPX.pdf" dpi="250" page="2" rot="0" x1="60" y1="1117" x2="1276" y2="1663" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPX.pdf" dpi="250" page="2" rot="0" x1="60" y1="1117" x2="1276" y2="1663" />
 			<Points>
 				<Point x="316" y="204" lat="48.843025" lon="1.976423" com="" />
 				<Point x="722" y="65" lat="48.844702" lon="1.985028" com="" />
@@ -2261,7 +2261,7 @@
     </AD>
 	<AD name="LFPH">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPH.pdf" dpi="250" page="1" rot="0" x1="178" y1="381" x2="1399" y2="1942" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPH.pdf" dpi="250" page="1" rot="0" x1="178" y1="381" x2="1399" y2="1942" />
 			<Points>
 				<Point x="312" y="153" lat="49.03773796880358" lon="2.485205387682406" com="" />
 				<Point x="937" y="60" lat="49.0580117846185" lon="2.7015737103756146" com="" />
@@ -2270,7 +2270,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPH.pdf" dpi="250" page="2" rot="0" x1="49" y1="143" x2="1268" y2="1292" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPH.pdf" dpi="250" page="2" rot="0" x1="49" y1="143" x2="1268" y2="1292" />
 			<Points>
 				<Point x="125" y="190" lat="48.90399560429973" lon="2.5881496932872188" com="" />
 				<Point x="880" y="37" lat="48.908595613494995" lon="2.6216633543540016" com="" />
@@ -2279,7 +2279,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPH.pdf" dpi="250" page="2" rot="0" x1="49" y1="1298" x2="1268" y2="1681" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFPH.pdf" dpi="250" page="2" rot="0" x1="49" y1="1298" x2="1268" y2="1681" />
 			<Points>
 				<Point x="396" y="119" lat="48.89732822609126" lon="2.6029657634278425" com="" />
 				<Point x="639" y="41" lat="48.89847688592012" lon="2.6084384451499507" com="" />
@@ -2290,7 +2290,7 @@
     </AD>
 	<AD name="LFRC">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRC.pdf" dpi="250" page="1" rot="0" x1="171" y1="404" x2="1388" y2="1294" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRC.pdf" dpi="250" page="1" rot="0" x1="171" y1="404" x2="1388" y2="1294" />
 			<Points>
 				<Point x="20" y="388" lat="49.650039548173275" lon="-1.5648958640413657" com="" />
 				<Point x="1188" y="216" lat="49.66835047014155" lon="-1.375535527600187" com="" />
@@ -2299,7 +2299,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRC.pdf" dpi="250" page="1" rot="0" x1="171" y1="1299" x2="1388" y2="1670" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFRC.pdf" dpi="250" page="1" rot="0" x1="171" y1="1299" x2="1388" y2="1670" />
 			<Points>
 				<Point x="253" y="111" lat="49.652179970896" lon="-1.4868849743059414" com="" />
 				<Point x="1020" y="42" lat="49.65447852232649" lon="-1.448503874818553" com="" />
@@ -2310,7 +2310,7 @@
     </AD>
 	<AD name="LFOU">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOU.pdf" dpi="250" page="1" rot="0" x1="179" y1="399" x2="1397" y2="1619" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOU.pdf" dpi="250" page="1" rot="0" x1="179" y1="399" x2="1397" y2="1619" />
 			<Points>
 				<Point x="200" y="68" lat="47.09549785134645" lon="-0.8918557888654274" com="" />
 				<Point x="972" y="238" lat="47.091542430055625" lon="-0.8658720284903235" com="" />
@@ -2321,7 +2321,7 @@
     </AD>
 	<AD name="LFJC">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJC.pdf" dpi="250" page="1" rot="0" x1="178" y1="416" x2="1397" y2="1636" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJC.pdf" dpi="250" page="1" rot="0" x1="178" y1="416" x2="1397" y2="1636" />
 			<Points>
 				<Point x="59" y="101" lat="47.448417168841566" lon="3.48808684441206" com="" />
 				<Point x="1209" y="215" lat="47.44582108286164" lon="3.5272258238143634" com="" />
@@ -2332,7 +2332,7 @@
     </AD>
 	<AD name="LFLC">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLC.pdf" dpi="250" page="1" rot="0" x1="178" y1="394" x2="1410" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLC.pdf" dpi="250" page="1" rot="0" x1="178" y1="394" x2="1410" y2="1947" />
 			<Points>
 				<Point x="398" y="76" lat="45.92673386878863" lon="3.0839332679142983" com="" />
 				<Point x="1154" y="152" lat="45.91173573869021" lon="3.333736006658285" com="" />
@@ -2341,7 +2341,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLC.pdf" dpi="250" page="2" rot="0" x1="51" y1="152" x2="1270" y2="1158" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLC.pdf" dpi="250" page="2" rot="0" x1="51" y1="152" x2="1270" y2="1158" />
 			<Points>
 				<Point x="112" y="9" lat="45.828822350688064" lon="3.1130633069382965" com="" />
 				<Point x="1148" y="12" lat="45.82852237752971" lon="3.222828288784029" com="" />
@@ -2350,7 +2350,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLC.pdf" dpi="250" page="2" rot="0" x1="51" y1="1163" x2="1270" y2="1659" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLC.pdf" dpi="250" page="2" rot="0" x1="51" y1="1163" x2="1270" y2="1659" />
 			<Points>
 				<Point x="175" y="267" lat="45.78482228833187" lon="3.150803403711676" com="" />
 				<Point x="392" y="190" lat="45.78772768018998" lon="3.1611228768627493" com="" />
@@ -2359,7 +2359,7 @@
 			</Points>
 		</Carte>
 		<Carte type="GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLC.pdf" dpi="250" page="3" rot="65.75" x1="172" y1="131" x2="1392" y2="1948" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLC.pdf" dpi="250" page="3" rot="65.75" x1="172" y1="131" x2="1392" y2="1948" />
 			<Points>
 				<Point x="484" y="868" lat="45.79143575750456" lon="3.1496955685575116" com="" />
 				<Point x="1034" y="967" lat="45.78992845703309" lon="3.163936864879472" com="" />
@@ -2369,7 +2369,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLC.pdf" dpi="250" page="4" rot="90" x1="61" y1="131" x2="1280" y2="1948" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFLC.pdf" dpi="250" page="4" rot="90" x1="61" y1="131" x2="1280" y2="1948" />
 			<Points>
 				<Point x="162" y="456" lat="45.79067245194563" lon="3.1545286827413013" com="" />
 				<Point x="1715" y="622" lat="45.789928539253154" lon="3.1639377693840474" com="" />
@@ -2380,7 +2380,7 @@
     </AD>
 	<AD name="LFBG">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBG.pdf" dpi="250" page="1" rot="0" x1="180" y1="387" x2="1396" y2="1946" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBG.pdf" dpi="250" page="1" rot="0" x1="180" y1="387" x2="1396" y2="1946" />
 			<Points>
 				<Point x="382" y="299" lat="45.73504807275093" lon="-0.3568876575211515" com="" />
 				<Point x="1147" y="266" lat="45.74128766844836" lon="-0.15716771018184908" com="" />
@@ -2389,7 +2389,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBG.pdf" dpi="250" page="2" rot="0" x1="53" y1="162" x2="1268" y2="1446" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBG.pdf" dpi="250" page="2" rot="0" x1="53" y1="162" x2="1268" y2="1446" />
 			<Points>
 				<Point x="152" y="188" lat="45.66831779482536" lon="-0.3279662668913464" com="" />
 				<Point x="968" y="338" lat="45.664891164468465" lon="-0.30085761732627375" com="" />
@@ -2398,7 +2398,7 @@
 			</Points>
 		</Carte>
 		<Carte type="GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBG.pdf" dpi="250" page="3" rot="0" x1="179" y1="161" x2="1398" y2="1949" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFBG.pdf" dpi="250" page="3" rot="0" x1="179" y1="161" x2="1398" y2="1949" />
 			<Points>
 				<Point x="91" y="611" lat="45.66536732776324" lon="-0.326422560685335" com="" />
 				<Point x="1097" y="636" lat="45.66490100554775" lon="-0.30086410309816886" com="" />
@@ -2409,7 +2409,7 @@
     </AD>
 	<AD name="LFGA">
 		<Carte type="APP" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGA.pdf" dpi="250" page="1" rot="0" x1="178" y1="440" x2="1397" y2="1962" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGA.pdf" dpi="250" page="1" rot="0" x1="178" y1="440" x2="1397" y2="1962" />
 			<Points>
 				<Point x="146" y="93" lat="48.40419234713113" lon="7.161871595618302" com="" />
 				<Point x="1088" y="36" lat="48.42404616038234" lon="7.639019270226468" com="" />
@@ -2418,7 +2418,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGA.pdf" dpi="250" page="2" rot="0" x1="52" y1="158" x2="1271" y2="1378" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGA.pdf" dpi="250" page="2" rot="0" x1="52" y1="158" x2="1271" y2="1378" />
 			<Points>
 				<Point x="81" y="32" lat="48.13376951038667" lon="7.3365353969825" com="" />
 				<Point x="836" y="186" lat="48.12802096070119" lon="7.378398724536654" com="" />
@@ -2427,7 +2427,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGA.pdf" dpi="250" page="2" rot="-80" x1="52" y1="1384" x2="1271" y2="1953" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGA.pdf" dpi="250" page="2" rot="-80" x1="52" y1="1384" x2="1271" y2="1953" />
 			<Points>
 				<Point x="340" y="391" lat="48.11464690934548" lon="7.3595832169309965" com="" />
 				<Point x="422" y="582" lat="48.11033359819921" lon="7.362181677990384" com="" />
@@ -2436,7 +2436,7 @@
 			</Points>
 		</Carte>
 		<Carte type="APDC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGA.pdf" dpi="250" page="3" rot="8" x1="177" y1="160" x2="1397" y2="1947" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFGA.pdf" dpi="250" page="3" rot="8" x1="177" y1="160" x2="1397" y2="1947" />
 			<Points>
 				<Point x="963" y="276" lat="48.110531019351754" lon="7.361637762614929" com="" />
 				<Point x="1065" y="351" lat="48.110229914303765" lon="7.36230003609526" com="" />
@@ -2447,7 +2447,7 @@
     </AD>
 	<AD name="LFAD">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAD.pdf" dpi="250" page="1" rot="0" x1="179" y1="393" x2="1398" y2="1612" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFAD.pdf" dpi="250" page="1" rot="0" x1="179" y1="393" x2="1398" y2="1612" />
 			<Points>
 				<Point x="261" y="79" lat="49.44994458406591" lon="2.787252524154026" com="" />
 				<Point x="1098" y="280" lat="49.44488126345109" lon="2.820409997830481" com="" />
@@ -2458,7 +2458,7 @@
     </AD>
 	<AD name="LFID">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFID.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1456" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFID.pdf" dpi="250" page="1" rot="0" x1="178" y1="406" x2="1397" y2="1456" />
 			<Points>
 				<Point x="17" y="127" lat="43.916840237751686" lon="0.3650799621106327" com="" />
 				<Point x="1024" y="316" lat="43.91251396103616" lon="0.39690886823679866" com="" />
@@ -2467,7 +2467,7 @@
 			</Points>
 		</Carte>
 		<Carte type="ATT_GMC" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFID.pdf" dpi="250" page="1" rot="22" x1="178" y1="1459" x2="1397" y2="1732" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFID.pdf" dpi="250" page="1" rot="22" x1="178" y1="1459" x2="1397" y2="1732" />
 			<Points>
 				<Point x="322" y="296" lat="43.91094413542584" lon="0.38031701439889" com="" />
 				<Point x="888" y="444" lat="43.90930633875162" lon="0.3892260960269183" com="" />
@@ -2478,7 +2478,7 @@
     </AD>
 	<AD name="LFJD">
 		<Carte type="ATT" id="1" com="">
-			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_14_MAY_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJD.pdf" dpi="250" page="1" rot="0" x1="180" y1="393" x2="1397" y2="1613" />
+			<Src file="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFJD.pdf" dpi="250" page="1" rot="0" x1="180" y1="393" x2="1397" y2="1613" />
 			<Points>
 				<Point x="123" y="194" lat="46.064343180788676" lon="5.455588718786465" com="" />
 				<Point x="903" y="310" lat="46.060143337763506" lon="5.496569964066785" com="" />
