@@ -1,5 +1,5 @@
 <FreeVFR>
-    <Georef cycle="2606" crc32="CB3CC095" xml="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/vac_georef.xml" />
+    <Georef cycle="2606" crc32="C7F4CFF8" xml="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/vac_georef.xml" />
     <Airacs>
         <Airac cycle="2606" status="active" crc32="0D230619" aixm="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/aixm_2606.xml"/>
         <Airac cycle="2605" status="active" crc32="FE7857C6" aixm="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/aixm_2605.xml"/>

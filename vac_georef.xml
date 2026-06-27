@@ -1,6 +1,6 @@
 <Georeference>
 	<!-- Airports -->
-	
+
 	<AD name="LFOI" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOI.pdf" dpi="250">
 		<Carte type="ATT" id="1" com="">
 			<Data page="1" x1="178" y1="406" x2="1397" y2="1620" />
@@ -3605,9 +3605,11 @@
 	<AD name="LF447" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF447.pdf" dpi="250">
 		
 	</AD>
+	<!-- Already existing in Atlas AD
 	<AD name="LFLJ" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFLJ.pdf" dpi="250">
 		
 	</AD>
+	-->
 	<AD name="LF299" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF299.pdf" dpi="250">
 		
 	</AD>
@@ -4094,4 +4096,164 @@
 	<AD name="LF229" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF229.pdf" dpi="250">
 		
 	</AD>
+
+	<!-- Airports Military -->
+	
+	<!-- Already existing in Atlas Civil
+	<AD name="LFXA" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_amberieu_lfxa.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<AD name="LFOA" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_avord_lfoa.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFBC" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_cazaux_lfbc.pdf" dpi="250">
+		
+	</AD>
+	<!-- Already existing in Atlas Civil
+	<AD name="LFJA" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_chaumont_semoutiers_lfja.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<AD name="LFXQ" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_coetquidan_lfxq.pdf" dpi="250">
+		
+	</AD>
+	<!-- Already existing in Atlas Civil
+	<AD name="LFBG" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_cognac_chateaubernard_lfbg.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Already existing in Atlas Civil
+	<AD name="LFTF" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_cuers_pierrefeu_lftf.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Already existing in Atlas Civil
+	<AD name="LFBY" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_dax_seyresse_lfby.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Already existing in Atlas Civil
+	<AD name="LFQE" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_etain_rouvres_lfqe.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<AD name="LFOE" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_evreux_fauville_lfoe.pdf" dpi="250">
+		
+	</AD>
+	<!-- Already existing in Atlas Civil
+	<AD name="LFTH" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_hyeres_le_palyvestre_lfth.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Already existing in Atlas Civil
+	<AD name="LFMI" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_istres_le_tube_lfmi.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Already existing in Atlas Civil
+	<AD name="LFRJ" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_landivisiau_lfrj.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Already existing in Atlas Civil
+	<AD name="LFRL" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_lanveoc_poulmic_lfrl.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Already existing in Atlas Civil
+	<AD name="LFMC" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_leluc_le_cannet_lfmc.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Already existing in Atlas Civil
+	<AD name="LFRH" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_lorient_lann_bihoue_lfrh.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<AD name="LFSX" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_luxeuil_saint_sauveur_lfsx.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFBM" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_montdemarsan_lfbm.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFSO" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_nancy_ochey_lfso.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFMO" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_orange_caritat_lfmo.pdf" dpi="250">
+		
+	</AD>
+	<!-- Already existing in Atlas Civil
+	<AD name="LFPR" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_orange_plan_de_dieu_lfpr.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Already existing in Atlas Civil
+	<AD name="LFOJ" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_orleans_bricy_lfoj.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Already existing in Atlas Civil
+	<AD name="LFQP" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_phalsbourg_bourscheid_lfqp.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Already existing in Atlas Civil
+	<AD name="LFYR" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_romorantin_pruniers_lfyr.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<AD name="LFSI" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_saintdizier_robinson_lfsi.pdf" dpi="250">
+		
+	</AD>
+	<!-- Already existing in Atlas Civil
+	<AD name="LFYS" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_sainteleocadie_lfys.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Already existing in Atlas Civil
+	<AD name="LFXB" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_saintesthenac_lfxb.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Already existing in Atlas Civil
+	<AD name="LFMY" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_salondeprovence_lfmy.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<AD name="LFKS" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_solenzara_lfks.pdf" dpi="250">
+		
+	</AD>
+	<!-- Already existing in Atlas Civil
+	<AD name="LFPV" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avue/avue_villacoublay_velizy_lfpv.pdf" dpi="250">
+		
+	</AD>
+	-->
+
+	<!-- Heliports Military -->
+	<!-- Already existing in Atlas Civil
+	<AD name="LFLJ" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avueh/avueh_courchevel_lflj.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Not available in AIXM
+	<AD name="ZZZZ" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avueh/avueh_iledulevant_zzzz.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Not available in AIXM
+	<AD name="ZZZZ" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avueh/avueh_toulon_milhaud_zzzz.pdf" dpi="250">
+		
+	</AD>
+	-->
+	<!-- Not available in AIXM, equivalent LF377
+	<AD name="HTSA" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avueh/avueh_toulon_stanne_htsa.pdf" dpi="250">
+
+	</AD>
+	-->
+	<!-- Already existing in Atlas Civil
+	<AD name="LFPV" vac="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/dircam/avueh/avueh_villacoublay_lfpv.pdf" dpi="250">
+		
+	</AD>
+	-->
 </Georeference>
