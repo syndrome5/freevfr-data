@@ -1,4 +1,6 @@
 <Georeference>
+	<!-- Airports -->
+	
 	<AD name="LFOI" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFOI.pdf" dpi="250">
 		<Carte type="ATT" id="1" com="">
 			<Data page="1" x1="178" y1="406" x2="1397" y2="1620" />
@@ -3373,6 +3375,723 @@
 		
 	</AD>
 	<AD name="LFYV" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VAC/AD/AD-2.LFYV.pdf" dpi="250">
+		
+	</AD>
+	
+	<!-- Heliports -->
+
+	<AD name="LF001" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF001.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF236" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF236.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF482" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF482.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF004" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF004.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF007" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF007.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF434" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF434.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF433" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF433.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF402" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF402.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF439" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF439.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF008" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF008.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF233" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF233.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF255" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF255.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF010" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF010.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF012" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF012.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF013" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF013.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF014" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF014.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF002" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF002.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF454" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF454.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF364" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF364.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF288" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF288.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF396" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF396.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF018" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF018.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF035" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF035.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF291" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF291.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF240" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF240.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF294" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF294.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF019" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF019.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF457" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF457.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFSB" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFSB.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF022" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF022.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF446" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF446.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF281" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF281.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF024" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF024.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF443" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF443.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF027" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF027.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFBZ" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFBZ.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF379" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF379.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF029" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF029.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF397" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF397.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFBD" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFBD.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF304" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF304.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF305" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF305.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF257" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF257.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF463" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF463.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF016" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF016.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF271" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF271.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF419" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF419.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFWF" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFWF.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF038" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF038.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF275" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF275.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF040" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF040.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF459" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF459.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF405" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF405.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF432" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF432.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFMD" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFMD.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFTL" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFTL.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF011" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF011.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF425" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF425.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF422" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF422.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF266" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF266.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF308" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF308.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF052" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF052.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF309" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF309.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF374" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF374.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFWB" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFWB.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF252" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF252.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF312" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF312.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF238" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF238.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF060" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF060.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF313" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF313.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF064" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF064.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF428" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF428.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF427" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF427.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFWM" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFWM.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF447" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF447.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFLJ" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFLJ.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF299" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF299.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF075" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF075.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF078" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF078.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF452" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF452.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF412" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF412.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF438" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF438.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF330" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF330.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF385" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF385.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF026" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF026.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFWD" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFWD.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF300" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF300.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF006" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF006.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF025" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF025.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF408" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF408.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF267" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF267.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF481" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF481.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF100" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF100.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF473" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF473.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF276" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF276.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF098" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF098.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF410" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF410.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF273" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF273.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF102" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF102.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF103" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF103.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF399" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF399.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF034" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF034.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF488" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF488.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF398" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF398.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF442" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF442.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF322" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF322.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF117" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF117.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF323" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF323.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF116" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF116.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF409" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF409.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF118" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF118.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF467" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF467.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF460" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF460.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF120" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF120.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF326" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF326.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF464" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF464.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF400" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF400.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF280" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF280.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF123" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF123.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF124" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF124.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF403" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF403.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF387" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF387.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF328" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF328.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF418" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF418.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF417" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF417.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF128" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF128.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF129" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF129.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF336" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF336.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF426" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF426.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF458" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF458.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF137" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF137.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF136" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF136.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF039" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF039.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFML" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFML.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF430" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF430.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF486" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF486.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF282" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF282.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF455" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF455.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF444" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF444.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF453" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF453.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LNMC" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LNMC.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF144" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF144.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF301" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF301.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF032" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF032.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF436" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF436.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFMT" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFMT.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFWO" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFWO.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF341" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF341.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF231" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF231.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFRS" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFRS.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF375" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF375.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF424" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF424.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF343" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF343.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFMN" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFMN.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF153" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF153.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF274" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF274.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF461" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF461.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF391" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF391.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF154" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF154.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF469" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF469.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF475" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF475.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF344" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF344.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF441" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF441.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF345" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF345.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF293" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF293.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF346" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF346.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF347" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF347.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFPG" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFPG.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFPI" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFPI.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFPB" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFPB.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFPO" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFPO.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFPN" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFPN.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF162" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF162.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFBP" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFBP.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF164" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF164.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF445" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF445.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF241" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF241.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF167" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF167.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF168" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF168.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF353" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF353.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF406" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF406.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF277" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF277.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF172" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF172.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF173" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF173.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF174" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF174.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF354" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF354.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF376" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF376.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF355" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF355.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF178" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF178.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF268" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF268.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF179" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF179.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF290" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF290.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF181" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF181.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF182" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF182.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF183" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF183.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF411" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF411.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF184" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF184.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF421" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF421.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF009" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF009.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF021" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF021.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF192" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF192.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF195" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF195.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF272" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF272.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF437" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF437.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF201" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF201.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF202" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF202.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF127" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF127.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF360" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF360.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF244" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF244.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF466" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF466.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF393" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF393.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF361" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF361.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF296" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF296.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF297" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF297.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF456" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF456.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFWH" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFWH.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFWN" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFWN.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF479" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF479.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF450" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF450.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF377" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF377.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF449" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF449.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFBO" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFBO.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF362" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF362.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF253" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF253.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF366" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF366.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF218" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF218.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF031" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF031.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF221" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF221.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF395" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF395.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF222" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF222.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF390" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF390.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF388" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF388.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF451" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF451.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF401" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF401.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LFPV" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LFPV.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF226" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF226.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF484" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF484.pdf" dpi="250">
+		
+	</AD>
+	<AD name="LF229" vac="https://www.sia.aviation-civile.gouv.fr/media/dvd/eAIP_11_JUN_2026/Atlas-VAC/PDF_AIPparSSection/VACH/AD/AD-3.LF229.pdf" dpi="250">
 		
 	</AD>
 </Georeference>
