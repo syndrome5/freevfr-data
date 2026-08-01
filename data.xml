@@ -9,4 +9,8 @@
         <Airac cycle="2602" status="inactive" />
         <Airac cycle="2601" status="active" crc32="20E1A5DE" aixm="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/aixm_2601.xml" />
     </Airacs>
+    <Status language="fr" color="ff0000" expiration="2024-08-03T12:00:00Z">
+        <Title>Problème ADS-B</Title>
+        <Message>Nous rencontrons actuellement des difficultés avec le système ADS-B. Nous travaillons à la résolution de ce problème.</Message>
+    </Status>
 </FreeVFR>
